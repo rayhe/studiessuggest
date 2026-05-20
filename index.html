@@ -70,6 +70,7 @@
     <a href="#" onclick="filterCategory('fitness'); document.querySelector('.mobile-drawer').classList.remove('open')">🏋️ Fitness</a>
     <a href="#" onclick="filterCategory('social-science'); document.querySelector('.mobile-drawer').classList.remove('open')">📊 Social Science</a>
     <a href="#" onclick="filterCategory('nutrition'); document.querySelector('.mobile-drawer').classList.remove('open')">🍽️ Nutrition</a>
+    <a href="#" onclick="filterCategory('policy'); document.querySelector('.mobile-drawer').classList.remove('open')">⚖️ Policy</a>
     <a href="#" class="drawer-theme-toggle" onclick="document.documentElement.classList.toggle('dark'); localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light')">🌓 Toggle Dark Mode</a>
   </div>
 </header>
@@ -81,13 +82,13 @@
 
 <!-- Featured Article -->
 <section class="featured-section">
-  <a href="stories/open-offices-reduce-face-to-face-collaboration.html" class="featured-card" data-category="social-science">
-    <img class="featured-img" src="images/open-offices-reduce-face-to-face-collaboration.webp" alt="Empty open office floor with lone figure wearing headphones">
+  <a href="stories/scared-straight-programs-increase-juvenile-crime.html" class="featured-card" data-category="policy">
+    <img class="featured-img" src="images/scared-straight-programs-increase-juvenile-crime.webp" alt="Long institutional corridor with warm golden light falling through high windows, autumn trees visible outside">
     <div class="featured-body">
-      <span class="kicker">📊 Social Science</span>
-      <h2>Open Offices Were Designed to Boost Collaboration. A Harvard Study Found They Cut It by 70%.</h2>
-      <p class="deck">Two Fortune 500 companies outfitted employees with sociometric sensors before and after converting cubicles to open plans. Face-to-face conversation plummeted while email and instant messaging surged.</p>
-      <span class="byline">By Daniel Forde · May 20, 2026 · 5 min read · ⚡⚡⚡⚡ 4/5</span>
+      <span class="kicker">⚖️ Policy</span>
+      <h2>"Scared Straight" Programs Were Supposed to Deter Crime. Nine Randomized Trials Found They Increased It.</h2>
+      <p class="deck">A Cochrane systematic review of 946 juveniles across nine experiments found that prison-visit deterrence programs raised the odds of reoffending by 68%. The programs remain in use.</p>
+      <span class="byline">By Nora Callahan · May 20, 2026 · 6 min read · ⚡⚡⚡⚡ 4/5</span>
     </div>
   </a>
 </section>
@@ -100,6 +101,20 @@
 <div class="botanical-divider" aria-hidden="true">🌿 🍃 🌿</div>
 
 <div class="article-grid" id="articleGrid">
+
+  <a href="stories/open-offices-reduce-face-to-face-collaboration.html" class="article-card" data-category="social-science">
+    <img class="card-img" src="images/open-offices-reduce-face-to-face-collaboration.webp" alt="Empty open office floor with rows of desks, a lone figure wearing headphones in the distance">
+    <div class="card-body">
+      <span class="kicker">📊 Social Science</span>
+      <h3>Open Offices Were Designed to Boost Collaboration. A Harvard Study Found They Cut It by 70%.</h3>
+      <p class="deck">Two Fortune 500 companies outfitted employees with sociometric sensors before and after converting cubicles to open plans. Face-to-face conversation plummeted while email and instant messaging surged.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 20, 2026</span>
+      <span class="reading-time">5 min read</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
 
   <a href="stories/antioxidant-supplements-increase-mortality.html" class="article-card" data-category="nutrition">
     <img class="card-img" src="images/antioxidant-supplements-increase-mortality.webp" alt="Scattered supplement pills on a wooden surface">
