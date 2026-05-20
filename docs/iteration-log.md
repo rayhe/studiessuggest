@@ -38,3 +38,18 @@
 - Study Cards verified complete across all articles (all 11 required fields present)
 **Commit:** aaec4c7
 **Deploy:** https://9a67d079.studiessuggest.pages.dev (Cloudflare Pages)
+
+## Iteration 3 (Final): Site Audit, SEO, UX, Validation & Report
+**Timestamp:** 2026-05-20 09:30 PT
+**Focus:** Final review — full site audit, JSON-LD structured data, share buttons, bug fixes, validation script, report
+**Changes:**
+- **Bug fix:** Removed duplicate closing tags (</div>, <script>, </body>, </html>) at end of open-offices article
+- **JSON-LD:** Added Article structured data (schema.org) to all 7 story pages with headline, author, datePublished, publisher, image, url, mainEntityOfPage
+- **JSON-LD:** Added WebSite structured data to homepage
+- **Share buttons:** Populated empty share bars on all 7 articles with Copy Link, X/Twitter, LinkedIn, and Email share buttons
+- **UX fix:** Fixed "All" category filter button to use filterCategory('all') onclick instead of href="/"
+- **Validation script:** Created `scripts/validate.sh` checking HTML structure, images, audio, sitemap, RSS, JSON-LD, OG tags, canonical URLs, image sizes
+- **Validation result:** 0 errors, 0 warnings across all checks
+- **Full audit passed:** All 7 DOIs verified, all images present, all audio files present, sitemap and RSS feed match article count, OG tags and canonical URLs on all pages
+**Commit:** cfeb851
+**Deploy:** https://66779246.studiessuggest.pages.dev (Cloudflare Pages)
