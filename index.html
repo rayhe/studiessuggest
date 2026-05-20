@@ -9,7 +9,13 @@
 <meta property="og:description" content="Evidence that challenges what you think you know.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://studiessuggest.org">
+<meta property="og:image" content="https://studiessuggest.org/images/og-default.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Studies Suggest">
+<meta name="twitter:description" content="Evidence that challenges what you think you know.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="application/rss+xml" title="Studies Suggest RSS" href="/feed.xml">
+<link rel="canonical" href="https://studiessuggest.org/">
 <link rel="stylesheet" href="style.css">
 <script>
   var saved = localStorage.getItem('ss-theme');
@@ -17,6 +23,8 @@
 </script>
 </head>
 <body>
+
+<a class="skip-link" href="#articleGrid">Skip to articles</a>
 
 <header class="site-header">
   <div class="header-inner">
@@ -38,10 +46,11 @@
   </div>
   <div class="mobile-drawer">
     <a href="/">All Stories</a>
-    <a href="#" onclick="filterCategory('psychology')">🧠 Psychology</a>
-    <a href="#" onclick="filterCategory('health')">🏥 Health</a>
-    <a href="#" onclick="filterCategory('fitness')">🏋️ Fitness</a>
-    <a href="#" onclick="filterCategory('social-science')">📊 Social Science</a>
+    <a href="#" onclick="filterCategory('psychology'); document.querySelector('.mobile-drawer').classList.remove('open')">🧠 Psychology</a>
+    <a href="#" onclick="filterCategory('health'); document.querySelector('.mobile-drawer').classList.remove('open')">🏥 Health</a>
+    <a href="#" onclick="filterCategory('fitness'); document.querySelector('.mobile-drawer').classList.remove('open')">🏋️ Fitness</a>
+    <a href="#" onclick="filterCategory('social-science'); document.querySelector('.mobile-drawer').classList.remove('open')">📊 Social Science</a>
+    <a href="#" class="drawer-theme-toggle" onclick="document.documentElement.classList.toggle('dark'); localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light')">🌓 Toggle Dark Mode</a>
   </div>
 </header>
 
@@ -58,7 +67,7 @@
       <span class="kicker">🧠 Psychology</span>
       <h2>Repeating "I Am Lovable" Made People With Low Self-Esteem Feel Worse</h2>
       <p class="deck">Experiments at the University of Waterloo found that positive self-statements backfired for those who needed them most: people with low self-esteem felt worse, not better, after repeating affirmations.</p>
-      <span class="byline">By Mara Feldstein · May 19, 2026 · ⚡⚡⚡⚡ 4/5</span>
+      <span class="byline">By Mara Feldstein · May 19, 2026 · 5 min read · ⚡⚡⚡⚡ 4/5</span>
     </div>
   </a>
 </section>
@@ -67,6 +76,8 @@
   <h2>Latest Research</h2>
   <div class="line"></div>
 </div>
+
+<div class="botanical-divider" aria-hidden="true">🌿 🍃 🌿</div>
 
 <div class="article-grid" id="articleGrid">
 
@@ -79,6 +90,7 @@
     </div>
     <div class="card-meta">
       <span>May 19, 2026</span>
+      <span class="reading-time">5 min read</span>
       <span class="score">⚡⚡⚡⚡ 4/5</span>
     </div>
   </a>
@@ -92,6 +104,7 @@
     </div>
     <div class="card-meta">
       <span>May 19, 2026</span>
+      <span class="reading-time">5 min read</span>
       <span class="score">⚡⚡⚡ 3/5</span>
     </div>
   </a>
@@ -105,6 +118,7 @@
     </div>
     <div class="card-meta">
       <span>May 19, 2026</span>
+      <span class="reading-time">5 min read</span>
       <span class="score">⚡⚡⚡⚡ 4/5</span>
     </div>
   </a>
@@ -118,6 +132,7 @@
     </div>
     <div class="card-meta">
       <span>May 19, 2026</span>
+      <span class="reading-time">5 min read</span>
       <span class="score">⚡⚡⚡⚡ 4/5</span>
     </div>
   </a>
@@ -131,6 +146,7 @@
     </div>
     <div class="card-meta">
       <span>May 19, 2026</span>
+      <span class="reading-time">5 min read</span>
       <span class="score">⚡⚡⚡⚡ 4/5</span>
     </div>
   </a>
@@ -138,11 +154,13 @@
 </div>
 
 <footer class="site-footer">
+  <p class="footer-about">Studies Suggest surfaces counterintuitive scientific findings that challenge conventional wisdom — verified, well-sourced, and explained without sensationalism.</p>
+  <span class="footer-sep"></span>
   <div class="footer-links">
-    <a href="/feed.xml">RSS Feed</a>
+    <a href="/feed.xml">📡 RSS Feed</a>
     <a href="https://github.com/rayhe/studiessuggest">GitHub</a>
   </div>
-  <p>Studies Suggest · Evidence that challenges assumptions · Est. 2026</p>
+  <p>Studies Suggest · Est. 2026 · Evidence over assumption</p>
 </footer>
 
 <script>

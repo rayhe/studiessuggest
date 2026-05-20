@@ -159,3 +159,33 @@ a { color: var(--accent); text-decoration: none; }
 
 /* Superscript refs */
 .ref-link { font-size: 0.75em; vertical-align: super; line-height: 0; }
+
+/* Accessibility: focus styles */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Selection styling */
+::selection {
+  background: rgba(58, 125, 68, 0.2);
+  color: var(--text);
+}
+
+/* Print styles */
+@media print {
+  .reading-progress, .theme-toggle-story, .share-bar,
+  .audio-player, .article-nav, .play-btn { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  .story-page { max-width: none; padding: 0; }
+  .story-title { font-size: 1.5rem; }
+  .story-hero-img { max-height: 250px; border-radius: 0; }
+  .study-card { border: 1px solid #ccc; break-inside: avoid; page-break-inside: avoid; }
+  .sources { break-inside: avoid; page-break-inside: avoid; }
+  .bottom-line { border: 1px solid #ccc; break-inside: avoid; }
+  a { color: #000; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.75em; word-break: break-all; }
+  .back-link::after { content: none; }
+}
