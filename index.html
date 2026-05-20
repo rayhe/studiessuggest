@@ -17,6 +17,24 @@
 <link rel="alternate" type="application/rss+xml" title="Studies Suggest RSS" href="/feed.xml">
 <link rel="canonical" href="https://studiessuggest.org/">
 <link rel="stylesheet" href="style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Studies Suggest",
+  "url": "https://studiessuggest.org",
+  "description": "Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Studies Suggest",
+    "url": "https://studiessuggest.org",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://studiessuggest.org/images/og-default.webp"
+    }
+  }
+}
+</script>
 <script>
   var saved = localStorage.getItem('ss-theme');
   if (saved === 'dark') document.documentElement.classList.add('dark');
@@ -33,7 +51,7 @@
       <span>Studies <span class="logo-highlight">Suggest</span></span>
     </a>
     <nav class="main-nav">
-      <a href="/" class="active">All</a>
+      <a href="#" class="active" onclick="filterCategory('all'); event.preventDefault()">All</a>
       <a href="#" onclick="filterCategory('psychology')">🧠 Psychology</a>
       <a href="#" onclick="filterCategory('health')">🏥 Health</a>
       <a href="#" onclick="filterCategory('fitness')">🏋️ Fitness</a>
