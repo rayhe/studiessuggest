@@ -56,6 +56,7 @@
       <a href="#" onclick="filterCategory('health')">🏥 Health</a>
       <a href="#" onclick="filterCategory('fitness')">🏋️ Fitness</a>
       <a href="#" onclick="filterCategory('social-science')">📊 Social Science</a>
+      <a href="#" onclick="filterCategory('nutrition')">🍽️ Nutrition</a>
       <button class="theme-toggle" aria-label="Toggle dark mode">🌓</button>
     </nav>
     <button class="hamburger" aria-label="Menu" onclick="document.querySelector('.mobile-drawer').classList.toggle('open')">
@@ -68,6 +69,7 @@
     <a href="#" onclick="filterCategory('health'); document.querySelector('.mobile-drawer').classList.remove('open')">🏥 Health</a>
     <a href="#" onclick="filterCategory('fitness'); document.querySelector('.mobile-drawer').classList.remove('open')">🏋️ Fitness</a>
     <a href="#" onclick="filterCategory('social-science'); document.querySelector('.mobile-drawer').classList.remove('open')">📊 Social Science</a>
+    <a href="#" onclick="filterCategory('nutrition'); document.querySelector('.mobile-drawer').classList.remove('open')">🍽️ Nutrition</a>
     <a href="#" class="drawer-theme-toggle" onclick="document.documentElement.classList.toggle('dark'); localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light')">🌓 Toggle Dark Mode</a>
   </div>
 </header>
@@ -98,6 +100,21 @@
 <div class="botanical-divider" aria-hidden="true">🌿 🍃 🌿</div>
 
 <div class="article-grid" id="articleGrid">
+
+  <a href="stories/antioxidant-supplements-increase-mortality.html" class="article-card" data-category="nutrition">
+    <img class="card-img" src="images/antioxidant-supplements-increase-mortality.webp" alt="Scattered supplement pills on a wooden surface">
+    <div class="card-body">
+      <span class="kicker">🍽️ Nutrition</span>
+      <h3>Taking Antioxidant Supplements Raises Your Risk of Dying</h3>
+      <p class="deck">A Cochrane review of 78 trials and 296,707 participants found that beta-carotene and vitamin E supplements increase all-cause mortality.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 20, 2026</span>
+      <span class="reading-time">5 min read</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
+
 
   <a href="stories/positive-affirmations-backfire-low-self-esteem.html" class="article-card" data-category="psychology">
     <img class="card-img" src="images/positive-affirmations-backfire-low-self-esteem.webp" alt="Mirror reflection showing distorted perspective">
