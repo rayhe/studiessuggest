@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Studies Suggest — Evidence That Challenges What You Think You Know</title>
+<meta name="description" content="Counterintuitive scientific findings, verified and well-sourced. The research that challenges assumptions, backed by real evidence.">
+<meta property="og:title" content="Studies Suggest">
+<meta property="og:description" content="Evidence that challenges what you think you know.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://studiessuggest.org">
+<link rel="alternate" type="application/rss+xml" title="Studies Suggest RSS" href="/feed.xml">
+<link rel="stylesheet" href="style.css">
+<script>
+  var saved = localStorage.getItem('ss-theme');
+  if (saved === 'dark') document.documentElement.classList.add('dark');
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-logo">
+      <span class="logo-icon">🌿</span>
+      <span>Studies <span class="logo-highlight">Suggest</span></span>
+    </a>
+    <nav class="main-nav">
+      <a href="/" class="active">All</a>
+      <a href="#" onclick="filterCategory('psychology')">🧠 Psychology</a>
+      <a href="#" onclick="filterCategory('health')">🏥 Health</a>
+      <a href="#" onclick="filterCategory('fitness')">🏋️ Fitness</a>
+      <a href="#" onclick="filterCategory('social-science')">📊 Social Science</a>
+      <button class="theme-toggle" aria-label="Toggle dark mode">🌓</button>
+    </nav>
+    <button class="hamburger" aria-label="Menu" onclick="document.querySelector('.mobile-drawer').classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="mobile-drawer">
+    <a href="/">All Stories</a>
+    <a href="#" onclick="filterCategory('psychology')">🧠 Psychology</a>
+    <a href="#" onclick="filterCategory('health')">🏥 Health</a>
+    <a href="#" onclick="filterCategory('fitness')">🏋️ Fitness</a>
+    <a href="#" onclick="filterCategory('social-science')">📊 Social Science</a>
+  </div>
+</header>
+
+<section class="site-hero">
+  <h1>Evidence That Challenges What You Think You Know</h1>
+  <p class="tagline">Counterintuitive scientific findings, verified and well-sourced. No clickbait. No sensationalism. Just the research.</p>
+</section>
+
+<!-- Featured Article -->
+<section class="featured-section">
+  <a href="stories/positive-affirmations-backfire-low-self-esteem.html" class="featured-card" data-category="psychology">
+    <img class="featured-img" src="images/positive-affirmations-backfire-low-self-esteem.webp" alt="Mirror reflection showing distorted perspective">
+    <div class="featured-body">
+      <span class="kicker">🧠 Psychology</span>
+      <h2>Repeating "I Am Lovable" Made People With Low Self-Esteem Feel Worse</h2>
+      <p class="deck">Experiments at the University of Waterloo found that positive self-statements backfired for those who needed them most: people with low self-esteem felt worse, not better, after repeating affirmations.</p>
+      <span class="byline">By Mara Feldstein · May 19, 2026 · ⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
+</section>
+
+<div class="section-header">
+  <h2>Latest Research</h2>
+  <div class="line"></div>
+</div>
+
+<div class="article-grid" id="articleGrid">
+
+  <a href="stories/brainstorming-groups-fewer-ideas-than-individuals.html" class="article-card" data-category="social-science">
+    <img class="card-img" src="images/brainstorming-groups-fewer-ideas-than-individuals.webp" alt="Lone figure with a notebook">
+    <div class="card-body">
+      <span class="kicker">📊 Social Science</span>
+      <h3>Brainstorming in Groups Produces Fewer Ideas Than Working Alone</h3>
+      <p class="deck">A meta-analysis of 20 studies found that brainstorming groups generate fewer ideas than the same number of people working independently.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 19, 2026</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
+
+  <a href="stories/stretching-before-exercise-no-injury-prevention.html" class="article-card" data-category="fitness">
+    <img class="card-img" src="images/stretching-before-exercise-no-injury-prevention.webp" alt="Athletic figure stretching">
+    <div class="card-body">
+      <span class="kicker">🏋️ Fitness</span>
+      <h3>Stretching Before Exercise Does Not Prevent Injuries</h3>
+      <p class="deck">A systematic review of 25 RCTs found stretching had no injury prevention benefit, while strength training cut risk by over a third.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 19, 2026</span>
+      <span class="score">⚡⚡⚡ 3/5</span>
+    </div>
+  </a>
+
+  <a href="stories/exercise-minimal-effect-weight-loss.html" class="article-card" data-category="fitness">
+    <img class="card-img" src="images/exercise-minimal-effect-weight-loss.webp" alt="Person running through a forest">
+    <div class="card-body">
+      <span class="kicker">🏋️ Fitness</span>
+      <h3>Exercise Burns Far Fewer Calories Than You Think</h3>
+      <p class="deck">A study of 332 adults across five populations found total energy expenditure plateaus above moderate activity. Your body compensates.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 19, 2026</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
+
+  <a href="stories/more-choices-less-satisfaction.html" class="article-card" data-category="psychology">
+    <img class="card-img" src="images/more-choices-less-satisfaction.webp" alt="Rows of jars stretching into the distance">
+    <div class="card-body">
+      <span class="kicker">🧠 Psychology</span>
+      <h3>More Options Make People Less Likely to Choose — and Less Happy When They Do</h3>
+      <p class="deck">Consumers were 10× more likely to buy jam when offered 6 options instead of 24. More choice led to worse decisions and lower satisfaction.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 19, 2026</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
+
+  <a href="stories/violent-video-games-no-aggression-link.html" class="article-card" data-category="psychology">
+    <img class="card-img" src="images/violent-video-games-no-aggression-link.webp" alt="Teenager playing peacefully">
+    <div class="card-body">
+      <span class="kicker">🧠 Psychology</span>
+      <h3>The Largest Registered Study of Video Game Violence Found No Link to Aggression</h3>
+      <p class="deck">A pre-registered Oxford study of 1,004 adolescents using objective violence ratings found zero relationship with aggressive behavior.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 19, 2026</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
+
+</div>
+
+<footer class="site-footer">
+  <div class="footer-links">
+    <a href="/feed.xml">RSS Feed</a>
+    <a href="https://github.com/rayhe/studiessuggest">GitHub</a>
+  </div>
+  <p>Studies Suggest · Evidence that challenges assumptions · Est. 2026</p>
+</footer>
+
+<script>
+// Theme toggle
+document.querySelector('.theme-toggle').addEventListener('click', function() {
+  document.documentElement.classList.toggle('dark');
+  localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+});
+
+// Category filter
+function filterCategory(cat) {
+  var cards = document.querySelectorAll('.article-card');
+  var featured = document.querySelector('.featured-card');
+  if (cat === 'all') {
+    cards.forEach(function(c) { c.style.display = ''; });
+    if (featured) featured.style.display = '';
+    return;
+  }
+  cards.forEach(function(c) {
+    c.style.display = c.dataset.category === cat ? '' : 'none';
+  });
+  if (featured) {
+    featured.style.display = featured.dataset.category === cat ? '' : 'none';
+  }
+}
+</script>
+</body>
+</html>

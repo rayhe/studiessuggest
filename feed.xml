@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Studies Suggest</title>
+  <link>https://studiessuggest.org</link>
+  <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 19 May 2026 00:00:00 -0700</lastBuildDate>
+  <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Repeating "I Am Lovable" Made People With Low Self-Esteem Feel Worse</title>
+    <link>https://studiessuggest.org/stories/positive-affirmations-backfire-low-self-esteem.html</link>
+    <description>Experiments at the University of Waterloo found that positive self-statements backfired for those who needed them most.</description>
+    <pubDate>Mon, 19 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/positive-affirmations-backfire-low-self-esteem.html</guid>
+  </item>
+
+  <item>
+    <title>Brainstorming in Groups Produces Fewer Ideas Than Working Alone</title>
+    <link>https://studiessuggest.org/stories/brainstorming-groups-fewer-ideas-than-individuals.html</link>
+    <description>A meta-analysis of 20 studies found that interactive brainstorming groups consistently underperformed individuals working independently.</description>
+    <pubDate>Mon, 19 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/brainstorming-groups-fewer-ideas-than-individuals.html</guid>
+  </item>
+
+  <item>
+    <title>Stretching Before Exercise Does Not Prevent Injuries</title>
+    <link>https://studiessuggest.org/stories/stretching-before-exercise-no-injury-prevention.html</link>
+    <description>A systematic review of 25 RCTs found stretching had no significant injury prevention benefit, while strength training cut risk by over a third.</description>
+    <pubDate>Mon, 19 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/stretching-before-exercise-no-injury-prevention.html</guid>
+  </item>
+
+  <item>
+    <title>Exercise Burns Far Fewer Calories Than You Think. Your Body Adjusts the Books.</title>
+    <link>https://studiessuggest.org/stories/exercise-minimal-effect-weight-loss.html</link>
+    <description>A study of 332 adults across five populations found total energy expenditure plateaus above moderate activity levels.</description>
+    <pubDate>Mon, 19 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/exercise-minimal-effect-weight-loss.html</guid>
+  </item>
+
+  <item>
+    <title>More Options Make People Less Likely to Choose — and Less Happy When They Do</title>
+    <link>https://studiessuggest.org/stories/more-choices-less-satisfaction.html</link>
+    <description>Consumers were 10 times more likely to buy jam when offered 6 options instead of 24.</description>
+    <pubDate>Mon, 19 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/more-choices-less-satisfaction.html</guid>
+  </item>
+
+  <item>
+    <title>The Largest Registered Study of Video Game Violence Found No Link to Aggression</title>
+    <link>https://studiessuggest.org/stories/violent-video-games-no-aggression-link.html</link>
+    <description>A pre-registered Oxford study of 1,004 adolescents using objective violence ratings found zero relationship with aggressive behavior.</description>
+    <pubDate>Mon, 19 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/violent-video-games-no-aggression-link.html</guid>
+  </item>
+
+</channel>
+</rss>
