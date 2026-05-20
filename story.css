@@ -108,9 +108,13 @@ a { color: var(--accent); text-decoration: none; }
 .sources li a { color: var(--accent); word-break: break-word; }
 
 /* Related */
-.related { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border); }
-.related h3 { font-family: var(--serif); font-size: 1.1rem; margin-bottom: 16px; }
-.related a { display: block; margin-bottom: 8px; }
+.related, .related-articles { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border); }
+.related h3, .related-articles h3 { font-family: var(--serif); font-size: 1.1rem; margin-bottom: 16px; }
+.related a, .related-articles a { color: var(--accent); text-decoration: none; }
+.related a:hover, .related-articles a:hover { text-decoration: underline; }
+.related-articles ul { list-style: none; padding: 0; margin: 0; }
+.related-articles li { margin-bottom: 10px; }
+.related-articles li::before { content: "→ "; color: var(--accent); font-weight: 600; }
 
 /* Share bar */
 .share-bar { display: flex; align-items: center; gap: 10px; margin: 32px 0; padding: 16px 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); flex-wrap: wrap; }
