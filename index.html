@@ -58,6 +58,7 @@
       <a href="#" onclick="filterCategory('social-science')">📊 Social Science</a>
       <a href="#" onclick="filterCategory('nutrition')">🍽️ Nutrition</a>
       <a href="#" onclick="filterCategory('economics')">💰 Economics</a>
+      <a href="#" onclick="filterCategory('environment')">🌍 Environment</a>
       <button class="theme-toggle" aria-label="Toggle dark mode">🌓</button>
     </nav>
     <button class="hamburger" aria-label="Menu" onclick="document.querySelector('.mobile-drawer').classList.toggle('open')">
@@ -73,6 +74,7 @@
     <a href="#" onclick="filterCategory('nutrition'); document.querySelector('.mobile-drawer').classList.remove('open')">🍽️ Nutrition</a>
     <a href="#" onclick="filterCategory('policy'); document.querySelector('.mobile-drawer').classList.remove('open')">⚖️ Policy</a>
     <a href="#" onclick="filterCategory('economics'); document.querySelector('.mobile-drawer').classList.remove('open')">💰 Economics</a>
+    <a href="#" onclick="filterCategory('environment'); document.querySelector('.mobile-drawer').classList.remove('open')">🌍 Environment</a>
     <a href="#" class="drawer-theme-toggle" onclick="document.documentElement.classList.toggle('dark'); localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light')">🌓 Toggle Dark Mode</a>
   </div>
 </header>
@@ -103,6 +105,20 @@
 <div class="botanical-divider" aria-hidden="true">🌿 🍃 🌿</div>
 
 <div class="article-grid" id="articleGrid">
+
+  <a href="stories/houseplants-dont-purify-indoor-air.html" class="article-card" data-category="environment">
+    <img class="card-img" src="images/houseplants-dont-purify-indoor-air.webp" alt="Sunlit room filled with rows of potted plants on shelves, light filtering through large windows">
+    <div class="card-body">
+      <span class="kicker">🌍 Environment</span>
+      <h3>Your Houseplants Aren't Cleaning the Air. A 30-Year Review Found They'd Need to Outnumber Your Furniture 100 to 1.</h3>
+      <p class="deck">A Drexel University review of 196 experiments across 12 studies found that potted plants remove VOCs so slowly that you'd need 10 to 1,000 plants per square meter to match basic ventilation.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 20, 2026</span>
+      <span class="reading-time">6 min read</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
 
   <a href="stories/daylight-saving-time-increases-energy-use.html" class="article-card" data-category="economics">
     <img class="card-img" src="images/daylight-saving-time-increases-energy-use.webp" alt="A large antique wall clock casting a long shadow across a golden wheat field at sunset">
