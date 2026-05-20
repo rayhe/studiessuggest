@@ -193,3 +193,33 @@ button:focus-visible {
   a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.75em; word-break: break-all; }
   .back-link::after { content: none; }
 }
+
+/* Voice Selector */
+.voice-selector {
+  display: flex; align-items: center; gap: 6px;
+  margin-left: auto; flex-shrink: 0;
+}
+.voice-selector .voice-label {
+  font-size: 0.72rem; color: var(--text-muted);
+  font-weight: 500; text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.voice-selector .voice-opt {
+  padding: 4px 12px; border-radius: 14px;
+  font-size: 0.75rem; font-weight: 600;
+  font-family: var(--sans);
+  border: 1.5px solid var(--border);
+  background: transparent; color: var(--text-muted);
+  cursor: pointer; transition: all 0.2s;
+}
+.voice-selector .voice-opt:hover {
+  border-color: var(--accent); color: var(--accent);
+}
+.voice-selector .voice-opt.active {
+  background: var(--accent); color: #fff;
+  border-color: var(--accent);
+}
+@media (max-width: 520px) {
+  .audio-player { flex-wrap: wrap; }
+  .voice-selector { width: 100%; justify-content: flex-end; margin-top: 6px; }
+}

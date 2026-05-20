@@ -1,155 +1,77 @@
 # Studies Suggest — Audio Narration Guide
 
 ## Overview
-Every published article includes a TTS audio narration accessible via a play button in the article header. Audio is generated during the publish pipeline and stored alongside the article HTML.
+Every published article includes TTS audio narration with a voice selector. Readers choose between two voices: **Adam** and **Eve**. The selection is random on first visit, then persists via localStorage across pages and sessions.
 
-## Voice
-All narration uses a single voice:
+## Voices
 
-| Name | Voice ID | Model |
+| Name | Voice ID | Notes |
 |------|----------|-------|
-| mark | `OyWVL9LW2StlLFuOJIvc` | `eleven_multilingual_v2` |
+| Adam | `g14YnDYCsy3k7XLlcKlO` | Male narrator |
+| Eve | `56bWURjYFHyYyVf490Dp` | Female narrator |
 
-**Do not rotate voices. Do not substitute.** Every article uses mark.
+Legacy voice (do not delete existing files, but no longer used for new articles):
+
+| Name | Voice ID | Notes |
+|------|----------|-------|
+| mark | `OyWVL9LW2StlLFuOJIvc` | Original single-voice narrator |
 
 ## API Details
 - **Provider:** ElevenLabs
 - **API Key:** `sk_4c3debb934ab6c750684bb27208577c1cfb9bbb136c05eda`
-- **Endpoint:** `https://api.elevenlabs.io/v1/text-to-speech/OyWVL9LW2StlLFuOJIvc`
+- **Adam endpoint:** `https://api.elevenlabs.io/v1/text-to-speech/g14YnDYCsy3k7XLlcKlO`
+- **Eve endpoint:** `https://api.elevenlabs.io/v1/text-to-speech/56bWURjYFHyYyVf490Dp`
 - **Model:** `eleven_multilingual_v2`
 - **Output format:** MP3 (mp3_44100_128)
+
+## File Naming Convention
+Each article gets TWO audio files:
+- `stories/{slug}-adam.mp3`
+- `stories/{slug}-eve.mp3`
+
+Legacy files (`stories/{slug}.mp3`) are kept but not referenced by the player.
 
 ## Pipeline Integration
 
 ### During Article Publish
 1. Extract article body text from the HTML (strip tags, keep paragraph structure)
 2. Prepend the headline and byline as a spoken intro: "Studies Suggest. [Headline]. By [Author]."
-3. Call ElevenLabs TTS API with the full text
-4. Save as `stories/{article-slug}.mp3`
-5. Add the audio player to the article HTML (see template below)
+3. Call ElevenLabs TTS API **twice** — once for Adam, once for Eve
+4. Save as `stories/{slug}-adam.mp3` and `stories/{slug}-eve.mp3`
+5. Add the audio player HTML with `data-slug="{slug}"` (NOT `data-src`)
 
-### Audio Player Template
-Insert this in the article header, after the byline and before the hero image:
+### Audio Player HTML Template
+Insert in the article header, after the byline and before the hero image:
 
 ```html
-<div class="audio-player" id="audioPlayer">
-  <button class="audio-btn" onclick="toggleAudio()" aria-label="Listen to article">
-    <span class="audio-icon" id="audioIcon">🎧</span>
-    <span class="audio-label" id="audioLabel">Listen to this article</span>
-  </button>
-  <audio id="articleAudio" src="{article-slug}.mp3" preload="none"></audio>
-  <div class="audio-progress" id="audioProgress" style="display:none">
-    <div class="audio-bar"><div class="audio-fill" id="audioFill"></div></div>
-    <span class="audio-time" id="audioTime">0:00</span>
+<div class="audio-player" data-slug="{article-slug}">
+  <button class="play-btn" aria-label="Listen to article">&#9654;</button>
+  <div class="audio-info">
+    <div class="audio-label">Listen to this article</div>
+    <div class="audio-duration">Loading...</div>
+    <div class="progress-bar"><div class="progress-fill"></div></div>
   </div>
 </div>
 ```
 
-### Audio Player Styles (in story.css)
-```css
-.audio-player {
-  margin: 16px 0 24px;
-  padding: 12px 16px;
-  background: var(--study-card-bg, #f5f2eb);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-.audio-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: var(--accent);
-  color: #fff;
-  border: none;
-  padding: 8px 16px;
-  border-radius: 20px;
-  font-size: 0.85rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background 0.2s;
-  font-family: var(--sans);
-}
-.audio-btn:hover { background: var(--accent-hover); }
-.audio-progress {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  min-width: 120px;
-}
-.audio-bar {
-  flex: 1;
-  height: 4px;
-  background: var(--border);
-  border-radius: 2px;
-  overflow: hidden;
-}
-.audio-fill {
-  height: 100%;
-  width: 0%;
-  background: var(--accent);
-  border-radius: 2px;
-  transition: width 0.3s;
-}
-.audio-time {
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  font-family: var(--sans);
-  min-width: 32px;
-}
-```
+**Important:** Use `data-slug` (not `data-src`). The JS constructs the filename dynamically: `{slug}-{voice}.mp3` based on the user's voice selection.
 
-### Audio Player JS (in story.js)
-```javascript
-function toggleAudio() {
-  var audio = document.getElementById('articleAudio');
-  var icon = document.getElementById('audioIcon');
-  var label = document.getElementById('audioLabel');
-  var progress = document.getElementById('audioProgress');
-  if (!audio) return;
-  if (audio.paused) {
-    audio.play();
-    icon.textContent = '⏸';
-    label.textContent = 'Pause';
-    progress.style.display = 'flex';
-  } else {
-    audio.pause();
-    icon.textContent = '🎧';
-    label.textContent = 'Listen to this article';
-  }
-}
-// Update progress bar
-(function() {
-  var audio = document.getElementById('articleAudio');
-  if (!audio) return;
-  audio.addEventListener('timeupdate', function() {
-    var fill = document.getElementById('audioFill');
-    var time = document.getElementById('audioTime');
-    if (fill && audio.duration) {
-      fill.style.width = (audio.currentTime / audio.duration * 100) + '%';
-    }
-    if (time) {
-      var m = Math.floor(audio.currentTime / 60);
-      var s = Math.floor(audio.currentTime % 60);
-      time.textContent = m + ':' + (s < 10 ? '0' : '') + s;
-    }
-  });
-  audio.addEventListener('ended', function() {
-    var icon = document.getElementById('audioIcon');
-    var label = document.getElementById('audioLabel');
-    if (icon) icon.textContent = '🎧';
-    if (label) label.textContent = 'Listen again';
-  });
-})();
-```
+The voice selector UI (Adam/Eve toggle buttons) is injected by `story.js` automatically — do not add it to the HTML template.
+
+### Voice Selection Logic (in story.js)
+- On first visit: randomly picks Adam or Eve, saves to `localStorage` key `ss-voice`
+- On subsequent visits: reads from `localStorage`
+- User can toggle between voices via buttons in the audio player
+- Switching voice mid-playback preserves the playback position
+- Choice persists across articles and browser sessions
+
+### Audio Player Styles (in story.css)
+The `.voice-selector` styles are at the end of story.css. The selector sits inside `.audio-player` and auto-aligns to the right. On mobile (<520px) it wraps to a new line.
 
 ## ElevenLabs API Call Example
 ```bash
-curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/OyWVL9LW2StlLFuOJIvc" \
+# Generate Adam version
+curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/g14YnDYCsy3k7XLlcKlO" \
   -H "xi-api-key: sk_4c3debb934ab6c750684bb27208577c1cfb9bbb136c05eda" \
   -H "Content-Type: application/json" \
   -d '{
@@ -161,7 +83,22 @@ curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/OyWVL9LW2StlLFuOJIvc" 
       "style": 0.3
     }
   }' \
-  --output stories/article-slug.mp3
+  --output stories/article-slug-adam.mp3
+
+# Generate Eve version
+curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/56bWURjYFHyYyVf490Dp" \
+  -H "xi-api-key: sk_4c3debb934ab6c750684bb27208577c1cfb9bbb136c05eda" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "text": "Studies Suggest. [headline]. By [author]. [body text...]",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.3
+    }
+  }' \
+  --output stories/article-slug-eve.mp3
 ```
 
 ## Text Preparation Rules

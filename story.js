@@ -1,6 +1,41 @@
-/* story.js — Reading progress, dark mode, audio player, smooth scroll for Studies Suggest */
+/* story.js — Reading progress, dark mode, audio player with Adam/Eve voice selector, smooth scroll for Studies Suggest */
 (function() {
   'use strict';
+
+  /* ── Voice Selection (Adam/Eve, persisted in localStorage) ── */
+  var VOICES = { adam: 'Adam', eve: 'Eve' };
+  var voiceKey = 'ss-voice';
+  var currentVoice = localStorage.getItem(voiceKey);
+  if (!currentVoice || !VOICES[currentVoice]) {
+    currentVoice = Math.random() < 0.5 ? 'adam' : 'eve';
+    localStorage.setItem(voiceKey, currentVoice);
+  }
+
+  function setVoice(v) {
+    currentVoice = v;
+    localStorage.setItem(voiceKey, v);
+    // Update all voice selectors on the page
+    document.querySelectorAll('.voice-selector .voice-opt').forEach(function(btn) {
+      btn.classList.toggle('active', btn.dataset.voice === v);
+    });
+    // Update audio sources
+    document.querySelectorAll('.audio-player').forEach(function(player) {
+      var slug = player.dataset.slug;
+      if (!slug) return;
+      var newSrc = slug + '-' + v + '.mp3';
+      var audioEl = player._audioElement;
+      if (audioEl) {
+        var wasPlaying = !audioEl.paused;
+        var curTime = audioEl.currentTime;
+        audioEl.src = newSrc;
+        if (wasPlaying) {
+          audioEl.currentTime = curTime;
+          audioEl.play();
+        }
+      }
+      player.dataset.src = newSrc;
+    });
+  }
 
   /* ── Theme (persist via localStorage) ── */
   var saved = localStorage.getItem('ss-theme');
@@ -33,23 +68,44 @@
     });
   });
 
-  /* ── Audio Player ── */
+  /* ── Audio Player with Voice Selector ── */
   document.querySelectorAll('.audio-player').forEach(function(player) {
     var btn = player.querySelector('.play-btn');
-    var audioSrc = player.dataset.src;
-    var progressBar = player.querySelector('.progress-fill');
+    var slug = player.dataset.slug;
+    var progressFill = player.querySelector('.progress-fill');
     var durationLabel = player.querySelector('.audio-duration');
-    var audio = null;
 
-    if (!btn || !audioSrc) return;
+    if (!btn || !slug) return;
+
+    // Set initial audio src based on current voice
+    player.dataset.src = slug + '-' + currentVoice + '.mp3';
+
+    // Inject voice selector into the player
+    var selectorDiv = document.createElement('div');
+    selectorDiv.className = 'voice-selector';
+    selectorDiv.innerHTML =
+      '<span class="voice-label">Voice:</span>' +
+      '<button class="voice-opt' + (currentVoice === 'adam' ? ' active' : '') + '" data-voice="adam">Adam</button>' +
+      '<button class="voice-opt' + (currentVoice === 'eve' ? ' active' : '') + '" data-voice="eve">Eve</button>';
+    player.appendChild(selectorDiv);
+
+    selectorDiv.querySelectorAll('.voice-opt').forEach(function(vbtn) {
+      vbtn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        setVoice(this.dataset.voice);
+      });
+    });
+
+    var audio = null;
 
     btn.addEventListener('click', function() {
       if (!audio) {
-        audio = new Audio(audioSrc);
+        audio = new Audio(player.dataset.src);
+        player._audioElement = audio;
         audio.addEventListener('timeupdate', function() {
           if (audio.duration) {
             var pct = (audio.currentTime / audio.duration) * 100;
-            if (progressBar) progressBar.style.width = pct + '%';
+            if (progressFill) progressFill.style.width = pct + '%';
             if (durationLabel) {
               var remain = Math.ceil(audio.duration - audio.currentTime);
               var m = Math.floor(remain / 60);
@@ -61,7 +117,8 @@
         audio.addEventListener('ended', function() {
           btn.classList.remove('playing');
           btn.innerHTML = '&#9654;';
-          if (progressBar) progressBar.style.width = '0';
+          if (progressFill) progressFill.style.width = '0';
+          if (durationLabel) durationLabel.textContent = 'Finished';
         });
         audio.addEventListener('loadedmetadata', function() {
           if (durationLabel) {
@@ -71,10 +128,23 @@
             durationLabel.textContent = m + ':' + (s < 10 ? '0' : '') + s;
           }
         });
+      } else {
+        // Check if source changed
+        var expectedSrc = slug + '-' + currentVoice + '.mp3';
+        if (!audio.src.endsWith(expectedSrc)) {
+          var wasTime = audio.currentTime;
+          audio.src = expectedSrc;
+          audio.currentTime = wasTime;
+        }
       }
       if (audio.paused) {
-        // Pause any other players on the page
-        document.querySelectorAll('.audio-player audio').forEach(function(a) { a.pause(); });
+        document.querySelectorAll('.audio-player').forEach(function(p) {
+          if (p._audioElement && p !== player) {
+            p._audioElement.pause();
+            var ob = p.querySelector('.play-btn');
+            if (ob) { ob.classList.remove('playing'); ob.innerHTML = '&#9654;'; }
+          }
+        });
         audio.play();
         btn.classList.add('playing');
         btn.innerHTML = '&#10074;&#10074;';
