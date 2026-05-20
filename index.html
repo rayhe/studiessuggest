@@ -57,6 +57,7 @@
       <a href="#" onclick="filterCategory('fitness')">🏋️ Fitness</a>
       <a href="#" onclick="filterCategory('social-science')">📊 Social Science</a>
       <a href="#" onclick="filterCategory('nutrition')">🍽️ Nutrition</a>
+      <a href="#" onclick="filterCategory('economics')">💰 Economics</a>
       <button class="theme-toggle" aria-label="Toggle dark mode">🌓</button>
     </nav>
     <button class="hamburger" aria-label="Menu" onclick="document.querySelector('.mobile-drawer').classList.toggle('open')">
@@ -71,6 +72,7 @@
     <a href="#" onclick="filterCategory('social-science'); document.querySelector('.mobile-drawer').classList.remove('open')">📊 Social Science</a>
     <a href="#" onclick="filterCategory('nutrition'); document.querySelector('.mobile-drawer').classList.remove('open')">🍽️ Nutrition</a>
     <a href="#" onclick="filterCategory('policy'); document.querySelector('.mobile-drawer').classList.remove('open')">⚖️ Policy</a>
+    <a href="#" onclick="filterCategory('economics'); document.querySelector('.mobile-drawer').classList.remove('open')">💰 Economics</a>
     <a href="#" class="drawer-theme-toggle" onclick="document.documentElement.classList.toggle('dark'); localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light')">🌓 Toggle Dark Mode</a>
   </div>
 </header>
@@ -101,6 +103,20 @@
 <div class="botanical-divider" aria-hidden="true">🌿 🍃 🌿</div>
 
 <div class="article-grid" id="articleGrid">
+
+  <a href="stories/financial-literacy-education-no-effect-behavior.html" class="article-card" data-category="economics">
+    <img class="card-img" src="images/financial-literacy-education-no-effect-behavior.webp" alt="An open economics textbook resting on fallen autumn leaves beside a quiet stream">
+    <div class="card-body">
+      <span class="kicker">💰 Economics</span>
+      <h3>Billions Are Spent Teaching People About Money. A Meta-Analysis of 168 Studies Found It Explains 0.1% of Their Financial Behavior.</h3>
+      <p class="deck">The most comprehensive meta-analysis of financial education research found that teaching people about compound interest, budgeting, and debt management accounts for essentially none of their actual financial decisions.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 20, 2026</span>
+      <span class="reading-time">5 min read</span>
+      <span class="score">⚡⚡⚡⚡ 4/5</span>
+    </div>
+  </a>
 
   <a href="stories/open-offices-reduce-face-to-face-collaboration.html" class="article-card" data-category="social-science">
     <img class="card-img" src="images/open-offices-reduce-face-to-face-collaboration.webp" alt="Empty open office floor with rows of desks, a lone figure wearing headphones in the distance">
