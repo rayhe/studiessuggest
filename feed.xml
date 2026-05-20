@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 19 May 2026 00:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 00:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Open Offices Were Designed to Boost Collaboration. A Harvard Study Found They Cut It by 70%.</title>
+    <link>https://studiessuggest.org/stories/open-offices-reduce-face-to-face-collaboration.html</link>
+    <description>Two Fortune 500 companies outfitted employees with sociometric sensors before and after converting cubicles to open plans. Face-to-face conversation plummeted while email surged.</description>
+    <pubDate>Wed, 20 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/open-offices-reduce-face-to-face-collaboration.html</guid>
+  </item>
 
   <item>
     <title>Repeating "I Am Lovable" Made People With Low Self-Esteem Feel Worse</title>
