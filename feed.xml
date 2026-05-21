@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 21 May 2026 00:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 01:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>700,000 Knee Surgeries a Year. A Sham-Controlled Trial Found the Procedure Works No Better Than Placebo.</title>
+    <link>https://studiessuggest.org/stories/knee-surgery-no-better-than-sham.html</link>
+    <description>The Finnish FIDELITY trial randomized 146 patients with degenerative meniscal tears to arthroscopic partial meniscectomy or sham surgery. At 12 months, outcomes were identical. At 10 years, the surgery group had more osteoarthritis and three times the rate of knee replacement.</description>
+    <pubDate>Thu, 21 May 2026 01:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/knee-surgery-no-better-than-sham.html</guid>
+  </item>
 
   <item>
     <title>Sugar Does Not Make Children Hyperactive — A Meta-Analysis of 23 Studies Found Zero Evidence</title>
