@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 20 May 2026 00:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 00:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Sugar Does Not Make Children Hyperactive — A Meta-Analysis of 23 Studies Found Zero Evidence</title>
+    <link>https://studiessuggest.org/stories/sugar-does-not-make-children-hyperactive.html</link>
+    <description>A JAMA meta-analysis pooling 23 double-blind, placebo-controlled experiments found that sugar has no measurable effect on children's behavior or cognitive performance. The "sugar high" persists as a cultural belief driven almost entirely by parental expectation.</description>
+    <pubDate>Thu, 21 May 2026 00:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/sugar-does-not-make-children-hyperactive.html</guid>
+  </item>
 
   <item>
     <title>Poor Families Given $709 With No Strings Attached Spent Less on Alcohol, Not More</title>
