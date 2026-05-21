@@ -60,6 +60,7 @@
       <a href="#" onclick="filterCategory('economics')">💰 Economics</a>
       <a href="#" onclick="filterCategory('environment')">🌍 Environment</a>
       <a href="#" onclick="filterCategory('biology')">🧬 Biology</a>
+      <a href="#" onclick="filterCategory('education')">🎓 Education</a>
       <button class="theme-toggle" aria-label="Toggle dark mode">🌓</button>
     </nav>
     <button class="hamburger" aria-label="Menu" onclick="document.querySelector('.mobile-drawer').classList.toggle('open')">
@@ -77,6 +78,7 @@
     <a href="#" onclick="filterCategory('economics'); document.querySelector('.mobile-drawer').classList.remove('open')">💰 Economics</a>
     <a href="#" onclick="filterCategory('environment'); document.querySelector('.mobile-drawer').classList.remove('open')">🌍 Environment</a>
     <a href="#" onclick="filterCategory('biology'); document.querySelector('.mobile-drawer').classList.remove('open')">🧬 Biology</a>
+    <a href="#" onclick="filterCategory('education'); document.querySelector('.mobile-drawer').classList.remove('open')">🎓 Education</a>
     <a href="#" class="drawer-theme-toggle" onclick="document.documentElement.classList.toggle('dark'); localStorage.setItem('ss-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light')">🌓 Toggle Dark Mode</a>
   </div>
 </header>
@@ -107,6 +109,18 @@
 <div class="botanical-divider" aria-hidden="true">🌿 🍃 🌿</div>
 
 <div class="article-grid" id="articleGrid">
+
+  <a href="stories/learning-styles-no-evidence-matching-instruction.html" class="article-card" data-category="education">
+    <img class="card-img" src="images/learning-styles-no-evidence-matching-instruction.webp" alt="An empty sunlit lecture hall with warm afternoon light streaming through windows onto rows of wooden desks">
+    <div class="card-body">
+      <span class="kicker">🎓 Education</span>
+      <h3>93% of Teachers Believe in Learning Styles. After Reviewing All the Evidence, Four Psychologists Found Almost None.</h3>
+      <p class="deck">A landmark review examined 50 years of learning-styles research and found virtually no evidence that matching instruction to a student's preferred style improves outcomes.</p>
+    </div>
+    <div class="card-meta">
+      <span>May 20, 2026</span>
+    </div>
+  </a>
 
   <a href="stories/highlighting-rereading-least-effective-study-methods.html" class="article-card" data-category="education">
     <img class="card-img" src="images/highlighting-rereading-least-effective-study-methods.webp" alt="An open notebook on a wooden desk surrounded by scattered highlighter pens with morning light filtering through a nearby window">
