@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'microcredit-doesnt-reduce-poverty', title: 'Microcredit Was Supposed to End Poverty. Six Randomized Trials Across Four Continents Found It Doesn\'t.' },
     { slug: 'open-offices-reduce-face-to-face-collaboration', title: 'Open Offices Were Designed to Boost Collaboration. A Harvard Study Found They Cut It by 70%.' },
     { slug: 'positive-affirmations-backfire-low-self-esteem', title: 'Repeating "I Am Lovable" Made People With Low Self-Esteem Feel Worse' },
     { slug: 'brainstorming-groups-fewer-ideas-than-individuals', title: 'Brainstorming in Groups Produces Fewer Ideas Than Working Alone' },
