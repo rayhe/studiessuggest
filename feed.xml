@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 21 May 2026 01:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>The Largest Study of Alcohol and Lifespan Found That "Moderate Drinking" Doesn't Help You Live Longer</title>
+    <link>https://studiessuggest.org/stories/moderate-drinking-no-mortality-benefit.html</link>
+    <description>A meta-analysis of 107 cohort studies tracking 4.8 million people found that the apparent longevity benefit of one or two drinks a day vanishes entirely once you stop counting sick former drinkers as "abstainers."</description>
+    <pubDate>Fri, 22 May 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/moderate-drinking-no-mortality-benefit.html</guid>
+  </item>
 
   <item>
     <title>Microcredit Was Supposed to End Poverty. Six Randomized Trials Across Four Continents Found It Doesn't.</title>

@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'moderate-drinking-no-mortality-benefit', title: 'The Largest Study of Alcohol and Lifespan Found That "Moderate Drinking" Doesn\'t Help You Live Longer' },
     { slug: 'microcredit-doesnt-reduce-poverty', title: 'Microcredit Was Supposed to End Poverty. Six Randomized Trials Across Four Continents Found It Doesn\'t.' },
     { slug: 'open-offices-reduce-face-to-face-collaboration', title: 'Open Offices Were Designed to Boost Collaboration. A Harvard Study Found They Cut It by 70%.' },
     { slug: 'positive-affirmations-backfire-low-self-esteem', title: 'Repeating "I Am Lovable" Made People With Low Self-Esteem Feel Worse' },
