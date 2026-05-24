@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 23 May 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Doctors Prescribed Bed Rest for Back Pain for Decades. A Landmark Trial Found It Made Recovery Slower.</title>
+    <link>https://studiessuggest.org/stories/bed-rest-delays-back-pain-recovery.html</link>
+    <description>A Finnish randomized trial of 186 workers with acute low back pain found that those told to stay in bed recovered slowest. Those who kept moving as tolerated recovered fastest at both 3 and 12 weeks. A Cochrane review of 10 trials and 1,923 patients later confirmed the finding.</description>
+    <pubDate>Sun, 24 May 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/bed-rest-delays-back-pain-recovery.html</guid>
+  </item>
 
   <item>
     <title>Surgeons Who Play Video Games Make 37% Fewer Errors and Operate 27% Faster</title>

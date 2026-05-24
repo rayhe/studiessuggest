@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'bed-rest-delays-back-pain-recovery', title: 'Doctors Prescribed Bed Rest for Back Pain for Decades. A Landmark Trial Found It Made Recovery Slower.' },
     { slug: 'video-game-surgeons-fewer-errors-faster', title: 'Surgeons Who Play Video Games Make 37% Fewer Errors and Operate 27% Faster' },
     { slug: 'rto-mandates-dont-improve-company-performance', title: 'Companies That Forced Workers Back to the Office Got Worse, Not Better. Three Studies Exposed the Damage.' },
     { slug: 'moderate-drinking-no-mortality-benefit', title: 'The Largest Study of Alcohol and Lifespan Found That "Moderate Drinking" Doesn\'t Help You Live Longer' },
