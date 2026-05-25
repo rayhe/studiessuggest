@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 24 May 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Rage Rooms Charge $50 to Smash Things. A Meta-Analysis of 154 Studies Found Venting Anger Makes It Worse.</title>
+    <link>https://studiessuggest.org/stories/venting-anger-increases-aggression.html</link>
+    <description>A 2024 meta-analysis of 154 studies involving 10,189 participants found that venting anger through physical activity has an effect size of essentially zero. Activities that lower physiological arousal — deep breathing, meditation, yoga — reduced anger and aggression with a Hedges' g of −0.63.</description>
+    <pubDate>Mon, 25 May 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/venting-anger-increases-aggression.html</guid>
+  </item>
 
   <item>
     <title>We Reviewed 25 Counterintuitive Findings. One Pattern Explains Why Bad Ideas Survive Good Evidence.</title>
