@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 25 May 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 27 May 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>NBA Playoff Series Go to Seven Games Less Often Than Math Predicts. The Rigging Theory Gets the Numbers Backward.</title>
+    <link>https://studiessuggest.org/stories/nba-playoff-officiating-bias-series-extension.html</link>
+    <description>An original analysis of 345 best-of-7 NBA playoff series from 2003 to 2025, tested against a heterogeneous matchup-strength probability model, finds that Game 7s occur 15% less often than expected. The popular conspiracy theory relies on a mathematical error.</description>
+    <pubDate>Tue, 27 May 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/nba-playoff-officiating-bias-series-extension.html</guid>
+  </item>
 
   <item>
     <title>Rage Rooms Charge $50 to Smash Things. A Meta-Analysis of 154 Studies Found Venting Anger Makes It Worse.</title>
