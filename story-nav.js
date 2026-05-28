@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'ice-baths-cut-muscle-growth', title: 'Athletes Swear by Ice Baths for Recovery. A 12-Week Trial Found They Cut Muscle Growth by Two-Thirds.' },
+    { slug: 'nba-playoff-officiating-bias-series-extension', title: 'NBA Playoff Series Go to Seven Games Less Often Than Math Predicts. The Rigging Theory Gets the Numbers Backward.' },
     { slug: 'venting-anger-increases-aggression', title: 'Rage Rooms Charge $50 to Smash Things. A Meta-Analysis of 154 Studies Found Venting Anger Makes It Worse.' },
     { slug: 'bed-rest-delays-back-pain-recovery', title: 'Doctors Prescribed Bed Rest for Back Pain for Decades. A Landmark Trial Found It Made Recovery Slower.' },
     { slug: 'video-game-surgeons-fewer-errors-faster', title: 'Surgeons Who Play Video Games Make 37% Fewer Errors and Operate 27% Faster' },
