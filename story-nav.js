@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'hospital-readmission-penalties-increased-deaths', title: 'Medicare Penalized Hospitals for Readmitting Patients. A Study of 8 Million Cases Found It Increased Deaths.' },
     { slug: 'ice-baths-cut-muscle-growth', title: 'Athletes Swear by Ice Baths for Recovery. A 12-Week Trial Found They Cut Muscle Growth by Two-Thirds.' },
     { slug: 'nba-playoff-officiating-bias-series-extension', title: 'NBA Playoff Series Go to Seven Games Less Often Than Math Predicts. The Rigging Theory Gets the Numbers Backward.' },
     { slug: 'venting-anger-increases-aggression', title: 'Rage Rooms Charge $50 to Smash Things. A Meta-Analysis of 154 Studies Found Venting Anger Makes It Worse.' },

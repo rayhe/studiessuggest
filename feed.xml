@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Medicare Penalized Hospitals for Readmitting Patients. A Study of 8 Million Cases Found It Increased Deaths.</title>
+    <link>https://studiessuggest.org/stories/hospital-readmission-penalties-increased-deaths.html</link>
+    <description>The Hospital Readmissions Reduction Program fined hospitals nearly $2 billion for readmitting patients within 30 days. A JAMA study of 8.3 million Medicare hospitalizations found the policy was associated with a significant increase in post-discharge mortality for heart failure and pneumonia — roughly 10,000 excess deaths over five years.</description>
+    <pubDate>Fri, 29 May 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/hospital-readmission-penalties-increased-deaths.html</guid>
+  </item>
 
   <item>
     <title>Athletes Swear by Ice Baths for Recovery. A 12-Week Trial Found They Cut Muscle Growth by Two-Thirds.</title>
