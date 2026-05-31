@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 29 May 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 31 May 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Patients Who Knew They Were Taking Sugar Pills Still Got Better. A Meta-Analysis of 60 Trials Exposed the Paradox.</title>
+    <link>https://studiessuggest.org/stories/open-label-placebos-work-without-deception.html</link>
+    <description>Sixty randomized controlled trials. 4,554 participants. Patients told the pills were sugar pills. They improved anyway — especially the sickest ones.</description>
+    <pubDate>Sat, 31 May 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/open-label-placebos-work-without-deception.html</guid>
+  </item>
 
   <item>
     <title>Medicare Penalized Hospitals for Readmitting Patients. A Study of 8 Million Cases Found It Increased Deaths.</title>
