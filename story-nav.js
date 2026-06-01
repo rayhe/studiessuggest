@@ -20,7 +20,21 @@
     { slug: 'stretching-before-exercise-no-injury-prevention', title: 'Stretching Before Exercise Does Not Prevent Injuries' },
     { slug: 'exercise-minimal-effect-weight-loss', title: 'Exercise Burns Far Fewer Calories Than You Think' },
     { slug: 'more-choices-less-satisfaction', title: 'More Options Make People Less Likely to Choose and Less Happy When They Do' },
-    { slug: 'violent-video-games-no-aggression-link', title: 'The Largest Study of Video Game Violence Found No Link to Aggression' }
+    { slug: 'violent-video-games-no-aggression-link', title: 'The Largest Study of Video Game Violence Found No Link to Aggression' },
+    { slug: 'antioxidant-supplements-increase-mortality', title: 'Taking Antioxidant Supplements Raises Your Risk of Dying. A Review of 296,707 People Exposed the Paradox.' },
+    { slug: 'breakfast-not-most-important-meal', title: 'Breakfast Is Not the Most Important Meal of the Day' },
+    { slug: 'cash-transfers-poor-invest-not-waste', title: 'Poor Families Given $709 With No Strings Attached Spent Less on Alcohol, Not More' },
+    { slug: 'daylight-saving-time-increases-energy-use', title: 'Daylight Saving Time Was Created to Save Energy. A Study of 7 Million Indiana Households Found It Does the Opposite.' },
+    { slug: 'financial-literacy-education-no-effect-behavior', title: 'Billions Are Spent Teaching People About Money. A Meta-Analysis of 168 Studies Found It Explains 0.1% of Their Financial Behavior.' },
+    { slug: 'highlighting-rereading-least-effective-study-methods', title: 'Highlighting and Rereading Are Nearly Useless: A Review of Hundreds of Experiments Found Only 2 of 10 Common Study Strategies Actually Work' },
+    { slug: 'houseplants-dont-purify-indoor-air', title: 'Your Houseplants Aren\'t Cleaning the Air. A 30-Year Review Found They\'d Need to Outnumber Your Furniture 100 to 1.' },
+    { slug: 'knee-surgery-no-better-than-sham', title: '700,000 Knee Surgeries a Year. A Sham-Controlled Trial Found the Procedure Works No Better Than Placebo.' },
+    { slug: 'learning-styles-no-evidence-matching-instruction', title: '93% of Teachers Believe in Learning Styles. After Reviewing All the Evidence, Four Psychologists Found Almost None.' },
+    { slug: 'meta-conclusion-what-evidence-tells-us', title: 'We Reviewed 25 Counterintuitive Findings. One Pattern Explains Why Bad Ideas Survive Good Evidence.' },
+    { slug: 'scared-straight-programs-increase-juvenile-crime', title: '"Scared Straight" Programs Were Supposed to Deter Crime. Nine Randomized Trials Found They Increased It.' },
+    { slug: 'sleep-deprivation-rapidly-treats-depression', title: 'Skipping a Single Night of Sleep Relieves Depression Faster Than Any Known Drug' },
+    { slug: 'sugar-does-not-make-children-hyperactive', title: 'Sugar Does Not Make Children Hyperactive: A Meta-Analysis of 23 Studies Found Zero Evidence' },
+    { slug: 'wounds-heal-slower-at-night-circadian-clock', title: 'Your Wounds Heal 60% Slower at Night Because Your Skin Cells Keep Their Own Clock' }
   ];
 
   var currentSlug = window.location.pathname.replace(/.*\/stories\//, '').replace(/\.html$/, '').replace(/\/$/, '');
