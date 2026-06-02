@@ -5,8 +5,24 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 31 May 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>52 Million Americans Take Acetaminophen Every Week. Two Double-Blind Trials Found It Also Reduces Their Empathy.</title>
+    <link>https://studiessuggest.org/stories/acetaminophen-reduces-empathy-for-pain.html</link>
+    <description>Acetaminophen is the most widely used drug ingredient in the United States, found in more than 600 medicines and taken weekly by nearly a quarter of all adults. A pair of randomized controlled trials at Ohio State found it doesn't just numb your own pain. It numbs your response to everyone else's.</description>
+    <pubDate>Tue, 02 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/acetaminophen-reduces-empathy-for-pain.html</guid>
+  </item>
+
+  <item>
+    <title>Talking Through Trauma Right After It Happens Seems Obviously Helpful. A Cochrane Review of 15 Trials Found It Can Make PTSD Worse.</title>
+    <link>https://studiessuggest.org/stories/trauma-debriefing-increases-ptsd.html</link>
+    <description>For two decades, organizations mandated that survivors of disasters, accidents, and violence sit down with a counselor within hours and relive what happened. A systematic review of every randomized trial found no benefit at any time point and evidence that the practice can nearly triple the odds of developing PTSD.</description>
+    <pubDate>Mon, 01 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/trauma-debriefing-increases-ptsd.html</guid>
+  </item>
 
   <item>
     <title>Patients Who Knew They Were Taking Sugar Pills Still Got Better. A Meta-Analysis of 60 Trials Exposed the Paradox.</title>

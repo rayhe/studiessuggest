@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'acetaminophen-reduces-empathy-for-pain', title: '52 Million Americans Take Acetaminophen Every Week. Two Double-Blind Trials Found It Also Reduces Their Empathy.' },
+    { slug: 'trauma-debriefing-increases-ptsd', title: 'Talking Through Trauma Right After It Happens Seems Obviously Helpful. A Cochrane Review of 15 Trials Found It Can Make PTSD Worse.' },
     { slug: 'open-label-placebos-work-without-deception', title: 'Patients Who Knew They Were Taking Sugar Pills Still Got Better. A Meta-Analysis of 60 Trials Exposed the Paradox.' },
     { slug: 'hospital-readmission-penalties-increased-deaths', title: 'Medicare Penalized Hospitals for Readmitting Patients. A Study of 8 Million Cases Found It Increased Deaths.' },
     { slug: 'ice-baths-cut-muscle-growth', title: 'Athletes Swear by Ice Baths for Recovery. A 12-Week Trial Found They Cut Muscle Growth by Two-Thirds.' },
