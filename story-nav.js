@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'recreational-running-protects-knees', title: 'Your Doctor Told You Running Would Ruin Your Knees. A Meta-Analysis of 125,810 People Found Runners Get Less Arthritis Than Couch Potatoes.' },
     { slug: 'acetaminophen-reduces-empathy-for-pain', title: '52 Million Americans Take Acetaminophen Every Week. Two Double-Blind Trials Found It Also Reduces Their Empathy.' },
     { slug: 'trauma-debriefing-increases-ptsd', title: 'Talking Through Trauma Right After It Happens Seems Obviously Helpful. A Cochrane Review of 15 Trials Found It Can Make PTSD Worse.' },
     { slug: 'open-label-placebos-work-without-deception', title: 'Patients Who Knew They Were Taking Sugar Pills Still Got Better. A Meta-Analysis of 60 Trials Exposed the Paradox.' },
