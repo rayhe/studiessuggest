@@ -5,8 +5,24 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 05 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Wants the Most Experienced Doctor. A Study of 736,537 Hospitalizations Found Patients of Older Physicians Had Higher Mortality.</title>
+    <link>https://studiessuggest.org/stories/experienced-doctors-worse-outcomes.html</link>
+    <description>A national analysis of Medicare hospital admissions found that 30-day mortality rose steadily with physician age, from 10.8% for doctors under 40 to 12.1% for those over 60. The effect disappeared for high-volume physicians.</description>
+    <pubDate>Mon, 08 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/experienced-doctors-worse-outcomes.html</guid>
+  </item>
+
+  <item>
+    <title>People Who Speak a Foreign Language Make Different Moral Choices. A Meta-Analysis of 38 Experiments Found the Language You Think In Reshapes What You Think Is Right.</title>
+    <link>https://studiessuggest.org/stories/foreign-language-changes-moral-decisions.html</link>
+    <description>A 2021 meta-analysis of 38 experiments found that people reasoning in a foreign language become significantly more willing to sacrifice one life to save five. The effect isn't about thinking harder. It's about feeling less.</description>
+    <pubDate>Sun, 07 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/foreign-language-changes-moral-decisions.html</guid>
+  </item>
 
   <item>
     <title>Your Doctor Told You Running Would Ruin Your Knees. A Meta-Analysis of 125,810 People Found Runners Get Less Arthritis Than Couch Potatoes.</title>

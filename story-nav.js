@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'experienced-doctors-worse-outcomes', title: 'Everyone Wants the Most Experienced Doctor. A Study of 736,537 Hospitalizations Found Patients of Older Physicians Had Higher Mortality.' },
+    { slug: 'foreign-language-changes-moral-decisions', title: 'People Who Speak a Foreign Language Make Different Moral Choices. A Meta-Analysis of 38 Experiments Found the Language You Think In Reshapes What You Think Is Right.' },
     { slug: 'recreational-running-protects-knees', title: 'Your Doctor Told You Running Would Ruin Your Knees. A Meta-Analysis of 125,810 People Found Runners Get Less Arthritis Than Couch Potatoes.' },
     { slug: 'acetaminophen-reduces-empathy-for-pain', title: '52 Million Americans Take Acetaminophen Every Week. Two Double-Blind Trials Found It Also Reduces Their Empathy.' },
     { slug: 'trauma-debriefing-increases-ptsd', title: 'Talking Through Trauma Right After It Happens Seems Obviously Helpful. A Cochrane Review of 15 Trials Found It Can Make PTSD Worse.' },
