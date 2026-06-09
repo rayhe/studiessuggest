@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 08 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Hospitals Spend Billions Making Patients Happy. A Study of 51,946 Adults Found the Most Satisfied Patients Were 26% More Likely to Die.</title>
+    <link>https://studiessuggest.org/stories/patient-satisfaction-higher-mortality.html</link>
+    <description>A nationally representative study found that patients rating their healthcare highest had greater hospital admissions, 9% higher drug expenditures, and 26% increased mortality risk. A 2019 replication with nearly 93,000 participants found an even stronger effect.</description>
+    <pubDate>Tue, 09 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/patient-satisfaction-higher-mortality.html</guid>
+  </item>
 
   <item>
     <title>Everyone Wants the Most Experienced Doctor. A Study of 736,537 Hospitalizations Found Patients of Older Physicians Had Higher Mortality.</title>
