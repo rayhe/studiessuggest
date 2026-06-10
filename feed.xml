@@ -5,8 +5,16 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 09 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Your Willpower Doesn't Run Out. Two Preregistered Studies With 5,672 Participants Across 59 Labs Found the 'Ego Depletion' Effect Is Essentially Zero.</title>
+    <link>https://studiessuggest.org/stories/willpower-not-a-limited-resource.html</link>
+    <description>The idea that self-control is a finite resource, backed by 600+ published studies, collapsed when 59 laboratories ran coordinated replications with 5,672 participants and found an effect one-tenth the original estimate.</description>
+    <pubDate>Wed, 10 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/willpower-not-a-limited-resource.html</guid>
+  </item>
 
   <item>
     <title>Hospitals Spend Billions Making Patients Happy. A Study of 51,946 Adults Found the Most Satisfied Patients Were 26% More Likely to Die.</title>

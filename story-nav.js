@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'willpower-not-a-limited-resource', title: 'Your Willpower Doesn\'t Run Out. Two Preregistered Studies With 5,672 Participants Across 59 Labs Found the \'Ego Depletion\' Effect Is Essentially Zero.' },
     { slug: 'patient-satisfaction-higher-mortality', title: 'Hospitals Spend Billions Making Patients Happy. A Study of 51,946 Adults Found the Most Satisfied Patients Were 26% More Likely to Die.' },
     { slug: 'experienced-doctors-worse-outcomes', title: 'Everyone Wants the Most Experienced Doctor. A Study of 736,537 Hospitalizations Found Patients of Older Physicians Had Higher Mortality.' },
     { slug: 'foreign-language-changes-moral-decisions', title: 'People Who Speak a Foreign Language Make Different Moral Choices. A Meta-Analysis of 38 Experiments Found the Language You Think In Reshapes What You Think Is Right.' },
