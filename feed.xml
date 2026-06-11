@@ -8,7 +8,15 @@
   <lastBuildDate>Wed, 10 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-  <item>
+    <item>
+    <title>80% of Americans Believe Music Lessons Make Kids Smarter. A Meta-Analysis of 54 Studies and 6,984 Children Found the Effect Is Zero.</title>
+    <link>https://studiessuggest.org/stories/music-training-does-not-boost-intelligence.html</link>
+    <description>The belief that learning piano or violin boosts children's IQ, reading, and math skills has driven school policy and parenting decisions for three decades. A comprehensive meta-analysis found that when studies use proper controls, music training produces no cognitive or academic benefit whatsoever.</description>
+    <pubDate>Thu, 11 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/music-training-does-not-boost-intelligence.html</guid>
+    <category>Education</category>
+  </item>
+<item>
     <title>Your Willpower Doesn't Run Out. Two Preregistered Studies With 5,672 Participants Across 59 Labs Found the 'Ego Depletion' Effect Is Essentially Zero.</title>
     <link>https://studiessuggest.org/stories/willpower-not-a-limited-resource.html</link>
     <description>The idea that self-control is a finite resource, backed by 600+ published studies, collapsed when 59 laboratories ran coordinated replications with 5,672 participants and found an effect one-tenth the original estimate.</description>
@@ -312,5 +320,13 @@
     <guid>https://studiessuggest.org/stories/violent-video-games-no-aggression-link.html</guid>
   </item>
 
+  <item>
+    <title>80% of Americans Believe Music Lessons Make Kids Smarter. A Meta-Analysis of 54 Studies and 6,984 Children Found the Effect Is Zero.</title>
+    <link>https://studiessuggest.org/stories/music-training-does-not-boost-intelligence.html</link>
+    <description>The belief that learning piano or violin boosts children's IQ, reading, and math skills has driven school policy and parenting decisions for three decades. A comprehensive meta-analysis found that when studies use proper controls, music training produces no cognitive or academic benefit whatsoever.</description>
+    <pubDate>Thu, 11 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/music-training-does-not-boost-intelligence.html</guid>
+    <category>Education</category>
+  </item>
 </channel>
 </rss>
