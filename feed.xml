@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 10 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Parent Worries About Screen Time. A Study of 355,358 Adolescents Found It Explains Less of Their Well-Being Than Wearing Glasses or Eating Potatoes.</title>
+    <link>https://studiessuggest.org/stories/screen-time-tiny-effect-teen-mental-health.html</link>
+    <description>Using a novel statistical method that tested every plausible analytic path through three massive datasets, Oxford researchers found that digital technology use accounts for at most 0.4% of the variation in adolescent well-being, an effect so small that potatoes and corrective lenses have comparable or larger negative associations.</description>
+    <pubDate>Fri, 12 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/screen-time-tiny-effect-teen-mental-health.html</guid>
+    <category>Psychology</category>
+  </item>
 
     <item>
     <title>80% of Americans Believe Music Lessons Make Kids Smarter. A Meta-Analysis of 54 Studies and 6,984 Children Found the Effect Is Zero.</title>

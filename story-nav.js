@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'screen-time-tiny-effect-teen-mental-health', title: 'Every Parent Worries About Screen Time. A Study of 355,358 Adolescents Found It Explains Less of Their Well-Being Than Wearing Glasses or Eating Potatoes.' },
     { slug: 'music-training-does-not-boost-intelligence', title: '80% of Americans Believe Music Lessons Make Kids Smarter. A Meta-Analysis of 54 Studies and 6,984 Children Found the Effect Is Zero.' },
     { slug: 'willpower-not-a-limited-resource', title: 'Your Willpower Doesn\'t Run Out. Two Preregistered Studies With 5,672 Participants Across 59 Labs Found the \'Ego Depletion\' Effect Is Essentially Zero.' },
     { slug: 'patient-satisfaction-higher-mortality', title: 'Hospitals Spend Billions Making Patients Happy. A Study of 51,946 Adults Found the Most Satisfied Patients Were 26% More Likely to Die.' },
