@@ -5,8 +5,26 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 13 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone on Your Train Is Avoiding Everyone Else. Nine Experiments Found They'd All Be Happier If They Talked.</title>
+    <link>https://studiessuggest.org/stories/strangers-commute-happier-than-solitude.html</link>
+    <description>Nine field experiments randomly assigned over 800 Chicago commuters to connect with a stranger, sit in solitude, or commute normally. Those who talked reported the most positive experience. Those who sat alone reported the least. Every commuter predicted the opposite.</description>
+    <pubDate>Wed, 17 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/strangers-commute-happier-than-solitude.html</guid>
+    <category>Psychology</category>
+  </item>
+
+  <item>
+    <title>Paying Blood Donors $7 Should Have Increased Supply. In a Swedish Field Experiment, It Cut Female Donations Nearly in Half.</title>
+    <link>https://studiessuggest.org/stories/paying-blood-donors-reduces-supply.html</link>
+    <description>A randomized field experiment offered potential blood donors SEK 50 (~$7). Among women, willingness to donate dropped from 52% to 30%. Allowing them to redirect the payment to charity restored the rate to 53%. The most fundamental prediction in economics failed on contact with human motivation.</description>
+    <pubDate>Sun, 14 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/paying-blood-donors-reduces-supply.html</guid>
+    <category>Economics</category>
+  </item>
 
   <item>
     <title>Everyone Chases 10,000 Steps a Day. That Number Was a 1965 Marketing Slogan. A Meta-Analysis of 226,889 People Found You Need Fewer Than 4,000.</title>

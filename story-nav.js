@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'strangers-commute-happier-than-solitude', title: 'Everyone on Your Train Is Avoiding Everyone Else. Nine Experiments Found They\'d All Be Happier If They Talked.' },
+    { slug: 'paying-blood-donors-reduces-supply', title: 'Paying Blood Donors $7 Should Have Increased Supply. In a Swedish Field Experiment, It Cut Female Donations Nearly in Half.' },
     { slug: 'four-thousand-steps-cut-mortality', title: 'Everyone Chases 10,000 Steps a Day. That Number Was a 1965 Marketing Slogan. A Meta-Analysis of 226,889 People Found You Need Fewer Than 4,000.' },
     { slug: 'screen-time-tiny-effect-teen-mental-health', title: 'Every Parent Worries About Screen Time. A Study of 355,358 Adolescents Found It Explains Less of Their Well-Being Than Wearing Glasses or Eating Potatoes.' },
     { slug: 'music-training-does-not-boost-intelligence', title: '80% of Americans Believe Music Lessons Make Kids Smarter. A Meta-Analysis of 54 Studies and 6,984 Children Found the Effect Is Zero.' },
