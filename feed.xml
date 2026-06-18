@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 17 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every University Adds Trigger Warnings to Protect Students. A Meta-Analysis of 7,000 Participants Found They Increase Anxiety Without Reducing Distress.</title>
+    <link>https://studiessuggest.org/stories/trigger-warnings-dont-reduce-distress.html</link>
+    <description>A preregistered meta-analysis of all experimental research on trigger warnings found zero effect on emotional reactions (d = 0.02), zero effect on avoidance, and zero effect on comprehension. Their single reliable effect: a small-to-medium increase in anticipatory anxiety. The finding held even for trauma survivors.</description>
+    <pubDate>Thu, 18 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/trigger-warnings-dont-reduce-distress.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Everyone on Your Train Is Avoiding Everyone Else. Nine Experiments Found They'd All Be Happier If They Talked.</title>

@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'trigger-warnings-dont-reduce-distress', title: 'Every University Adds Trigger Warnings to Protect Students. A Meta-Analysis of 7,000 Participants Found They Increase Anxiety Without Reducing Distress.' },
     { slug: 'strangers-commute-happier-than-solitude', title: 'Everyone on Your Train Is Avoiding Everyone Else. Nine Experiments Found They\'d All Be Happier If They Talked.' },
     { slug: 'paying-blood-donors-reduces-supply', title: 'Paying Blood Donors $7 Should Have Increased Supply. In a Swedish Field Experiment, It Cut Female Donations Nearly in Half.' },
     { slug: 'four-thousand-steps-cut-mortality', title: 'Everyone Chases 10,000 Steps a Day. That Number Was a 1965 Marketing Slogan. A Meta-Analysis of 226,889 People Found You Need Fewer Than 4,000.' },
