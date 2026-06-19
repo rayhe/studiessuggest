@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'prostate-monitoring-matches-surgery-survival', title: 'Every Instinct Says to Fight Cancer with Surgery. A 15-Year Trial of 1,643 Men Found That Monitoring Prostate Cancer Achieves the Same Survival Rate.' },
     { slug: 'trigger-warnings-dont-reduce-distress', title: 'Every University Adds Trigger Warnings to Protect Students. A Meta-Analysis of 7,000 Participants Found They Increase Anxiety Without Reducing Distress.' },
     { slug: 'strangers-commute-happier-than-solitude', title: 'Everyone on Your Train Is Avoiding Everyone Else. Nine Experiments Found They\'d All Be Happier If They Talked.' },
     { slug: 'paying-blood-donors-reduces-supply', title: 'Paying Blood Donors $7 Should Have Increased Supply. In a Swedish Field Experiment, It Cut Female Donations Nearly in Half.' },

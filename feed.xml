@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 18 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Instinct Says to Fight Cancer with Surgery. A 15-Year Trial of 1,643 Men Found That Monitoring Prostate Cancer Achieves the Same Survival Rate.</title>
+    <link>https://studiessuggest.org/stories/prostate-monitoring-matches-surgery-survival.html</link>
+    <description>The ProtecT trial randomly assigned 1,643 men with localized prostate cancer to active monitoring, surgery, or radiotherapy and tracked them for 15 years, finding no significant difference in cancer-specific survival between doing nothing and doing everything.</description>
+    <pubDate>Fri, 19 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/prostate-monitoring-matches-surgery-survival.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Every University Adds Trigger Warnings to Protect Students. A Meta-Analysis of 7,000 Participants Found They Increase Anxiety Without Reducing Distress.</title>
