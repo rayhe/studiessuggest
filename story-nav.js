@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'fidgeting-protects-against-sitting-mortality', title: 'Your Teacher Told You to Stop Fidgeting. A 12-Year Study of 12,778 Women Found Fidgeting Eliminated the Deadly Risk of Prolonged Sitting.' },
+    { slug: 'cold-showers-reduce-sick-days', title: 'Your Mother Told You Cold Would Make You Sick. A Randomized Trial of 3,018 Adults Found Cold Showers Cut Sick Days by 29%.' },
     { slug: 'early-peanut-introduction-prevents-allergy', title: 'Pediatricians Told Parents to Keep Peanuts Away from Babies Until Age Three. A Trial of 640 Infants Found That Feeding Them Peanuts Early Cut Allergy by 81%.' },
     { slug: 'prostate-monitoring-matches-surgery-survival', title: 'Every Instinct Says to Fight Cancer with Surgery. A 15-Year Trial of 1,643 Men Found That Monitoring Prostate Cancer Achieves the Same Survival Rate.' },
     { slug: 'trigger-warnings-dont-reduce-distress', title: 'Every University Adds Trigger Warnings to Protect Students. A Meta-Analysis of 7,000 Participants Found They Increase Anxiety Without Reducing Distress.' },

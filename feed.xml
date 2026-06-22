@@ -5,8 +5,26 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 20 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Your Teacher Told You to Stop Fidgeting. A 12-Year Study of 12,778 Women Found Fidgeting Eliminated the Deadly Risk of Prolonged Sitting.</title>
+    <link>https://studiessuggest.org/stories/fidgeting-protects-against-sitting-mortality.html</link>
+    <description>Among low fidgeters, sitting seven-plus hours a day raised mortality risk by 30%. Among high fidgeters, the same amount of sitting carried no increased risk at all. Controlled lab experiments confirmed the mechanism: rhythmic leg movements during sitting maintain arterial blood flow and preserve endothelial function.</description>
+    <pubDate>Mon, 22 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/fidgeting-protects-against-sitting-mortality.html</guid>
+    <category>Health</category>
+  </item>
+
+  <item>
+    <title>Your Mother Told You Cold Would Make You Sick. A Randomized Trial of 3,018 Adults Found Cold Showers Cut Sick Days by 29%.</title>
+    <link>https://studiessuggest.org/stories/cold-showers-reduce-sick-days.html</link>
+    <description>The largest randomized controlled trial of cold showering assigned 3,018 Dutch adults to finish their daily showers with 30, 60, or 90 seconds of cold water for 30 days. All three groups showed the same result: a 29% reduction in sick days from work. The duration didn't matter. And 91% chose to keep going.</description>
+    <pubDate>Sun, 21 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/cold-showers-reduce-sick-days.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Pediatricians Told Parents to Keep Peanuts Away from Babies Until Age Three. A Trial of 640 Infants Found That Feeding Them Peanuts Early Cut Allergy by 81%.</title>
