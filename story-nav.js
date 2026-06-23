@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'thought-suppression-improves-mental-health', title: 'Therapists Tell You Never to Suppress Negative Thoughts. A Cambridge Study of 120 People Across 16 Countries Found Suppression Training Reduced Depression for Three Months.' },
     { slug: 'fidgeting-protects-against-sitting-mortality', title: 'Your Teacher Told You to Stop Fidgeting. A 12-Year Study of 12,778 Women Found Fidgeting Eliminated the Deadly Risk of Prolonged Sitting.' },
     { slug: 'cold-showers-reduce-sick-days', title: 'Your Mother Told You Cold Would Make You Sick. A Randomized Trial of 3,018 Adults Found Cold Showers Cut Sick Days by 29%.' },
     { slug: 'early-peanut-introduction-prevents-allergy', title: 'Pediatricians Told Parents to Keep Peanuts Away from Babies Until Age Three. A Trial of 640 Infants Found That Feeding Them Peanuts Early Cut Allergy by 81%.' },
