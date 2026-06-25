@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 24 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>One in Three Americans Sleeps Six Hours a Night and Feels Fine. A Controlled Experiment Found Their Brains Worked as Poorly as if They'd Been Awake for Two Days Straight.</title>
+    <link>https://studiessuggest.org/stories/six-hours-sleep-impaired-as-total-deprivation.html</link>
+    <description>A dose-response study at the University of Pennsylvania restricted 48 healthy adults to four, six, or eight hours of sleep per night for 14 consecutive days. The six-hour sleepers developed the same level of cognitive impairment as subjects who hadn't slept at all for 48 hours. Their subjective sleepiness ratings barely budged.</description>
+    <pubDate>Thu, 25 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/six-hours-sleep-impaired-as-total-deprivation.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Addiction Hijacks the Brain So Nothing Else Matters. NIH Researchers Found That Even 'Addicted' Rats Chose a Friend Over Methamphetamine Every Time.</title>

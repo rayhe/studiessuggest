@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'six-hours-sleep-impaired-as-total-deprivation', title: 'One in Three Americans Sleeps Six Hours a Night and Feels Fine. A Controlled Experiment Found Their Brains Worked as Poorly as if They\'d Been Awake for Two Days Straight.' },
     { slug: 'social-interaction-prevents-drug-addiction-rats', title: 'Addiction Hijacks the Brain So Nothing Else Matters. NIH Researchers Found That Even \'Addicted\' Rats Chose a Friend Over Methamphetamine Every Time.' },
     { slug: 'thought-suppression-improves-mental-health', title: 'Therapists Tell You Never to Suppress Negative Thoughts. A Cambridge Study of 120 People Across 16 Countries Found Suppression Training Reduced Depression for Three Months.' },
     { slug: 'fidgeting-protects-against-sitting-mortality', title: 'Your Teacher Told You to Stop Fidgeting. A 12-Year Study of 12,778 Women Found Fidgeting Eliminated the Deadly Risk of Prolonged Sitting.' },
