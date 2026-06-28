@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 27 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Warns You That Spicy Food Will Ruin Your Stomach. A Meta-Analysis of 570,762 Adults Found Regular Chili Pepper Consumption Reduces Mortality Risk by 12%.</title>
+    <link>https://studiessuggest.org/stories/chili-peppers-reduce-mortality.html</link>
+    <description>A systematic review pooled four large prospective cohort studies from China, the United States, Italy, and Iran. Regular chili pepper consumers had a 12% lower risk of all-cause death, a 17% lower risk of cardiovascular death, and the protective effect held regardless of diet quality.</description>
+    <pubDate>Sun, 28 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/chili-peppers-reduce-mortality.html</guid>
+    <category>Nutrition</category>
+  </item>
 
   <item>
     <title>Everyone Imagines Dying as Dreadful. An Analysis of 2,616 Blog Posts by Terminal Patients Found Their Words Grew More Positive as Death Approached.</title>

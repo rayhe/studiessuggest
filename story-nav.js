@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'chili-peppers-reduce-mortality', title: 'Everyone Warns You That Spicy Food Will Ruin Your Stomach. A Meta-Analysis of 570,762 Adults Found Regular Chili Pepper Consumption Reduces Mortality Risk by 12%.' },
     { slug: 'dying-is-unexpectedly-positive', title: 'Everyone Imagines Dying as Dreadful. An Analysis of 2,616 Blog Posts by Terminal Patients Found Their Words Grew More Positive as Death Approached.' },
     { slug: 'six-hours-sleep-impaired-as-total-deprivation', title: 'One in Three Americans Sleeps Six Hours a Night and Feels Fine. A Controlled Experiment Found Their Brains Worked as Poorly as if They\'d Been Awake for Two Days Straight.' },
     { slug: 'social-interaction-prevents-drug-addiction-rats', title: 'Addiction Hijacks the Brain So Nothing Else Matters. NIH Researchers Found That Even \'Addicted\' Rats Chose a Friend Over Methamphetamine Every Time.' },
