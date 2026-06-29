@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 28 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Artificial Sweeteners Were Assumed to Be Metabolically Inert. A Randomized Trial of 120 Adults Found Saccharin and Sucralose Impaired Blood Sugar by Disrupting the Gut Microbiome.</title>
+    <link>https://studiessuggest.org/stories/sweeteners-impair-glucose-tolerance.html</link>
+    <description>A randomized controlled trial gave 120 healthy adults daily sachets of saccharin, sucralose, aspartame, or stevia for two weeks at doses below the FDA safety limit. Saccharin and sucralose significantly impaired glycemic responses through microbiome-mediated changes confirmed by fecal transplant into germ-free mice.</description>
+    <pubDate>Mon, 29 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/sweeteners-impair-glucose-tolerance.html</guid>
+    <category>Nutrition</category>
+  </item>
 
   <item>
     <title>Everyone Warns You That Spicy Food Will Ruin Your Stomach. A Meta-Analysis of 570,762 Adults Found Regular Chili Pepper Consumption Reduces Mortality Risk by 12%.</title>
