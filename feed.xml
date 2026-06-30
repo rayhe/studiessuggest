@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 29 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Parents Sanitize Everything to Protect Their Children. Amish Children Who Grow Up in Barn Dust Have One-Quarter the Asthma Rate of Their Genetically Similar Neighbors.</title>
+    <link>https://studiessuggest.org/stories/farm-dust-protects-children-asthma.html</link>
+    <description>Two farming communities with shared ancestry and nearly identical lifestyles showed a fourfold gap in childhood asthma. The difference traced to barn dust: when researchers blew Amish house dust into mice, it prevented allergic asthma through innate immune signaling. Hutterite dust did nothing.</description>
+    <pubDate>Tue, 30 Jun 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/farm-dust-protects-children-asthma.html</guid>
+    <category>Biology</category>
+  </item>
 
   <item>
     <title>Artificial Sweeteners Were Assumed to Be Metabolically Inert. A Randomized Trial of 120 Adults Found Saccharin and Sucralose Impaired Blood Sugar by Disrupting the Gut Microbiome.</title>
