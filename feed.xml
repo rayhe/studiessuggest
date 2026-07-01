@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 30 Jun 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 01 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Police, Judges, and Federal Agents Are Trained to Spot Liars. A Meta-Analysis of 206 Studies Found They Perform No Better Than Untrained College Students.</title>
+    <link>https://studiessuggest.org/stories/humans-cannot-detect-lies.html</link>
+    <description>A meta-analysis of 24,483 human judges across 206 experiments found that people detect lies at 54% accuracy, where 50% is chance. The breakdown is worse than it sounds: humans catch only 47% of lies while correctly identifying 61% of truths. Trained professionals show no meaningful advantage.</description>
+    <pubDate>Wed, 01 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/humans-cannot-detect-lies.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Parents Sanitize Everything to Protect Their Children. Amish Children Who Grow Up in Barn Dust Have One-Quarter the Asthma Rate of Their Genetically Similar Neighbors.</title>

@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'humans-cannot-detect-lies', title: 'Police, Judges, and Federal Agents Are Trained to Spot Liars. A Meta-Analysis of 206 Studies Found They Perform No Better Than Untrained College Students.' },
     { slug: 'farm-dust-protects-children-asthma', title: 'Parents Sanitize Everything to Protect Their Children. Amish Children Who Grow Up in Barn Dust Have One-Quarter the Asthma Rate of Their Genetically Similar Neighbors.' },
     { slug: 'sweeteners-impair-glucose-tolerance', title: 'Artificial Sweeteners Were Assumed to Be Metabolically Inert. A Randomized Trial of 120 Adults Found Saccharin and Sucralose Impaired Blood Sugar by Disrupting the Gut Microbiome.' },
     { slug: 'chili-peppers-reduce-mortality', title: 'Everyone Warns You That Spicy Food Will Ruin Your Stomach. A Meta-Analysis of 570,762 Adults Found Regular Chili Pepper Consumption Reduces Mortality Risk by 12%.' },
