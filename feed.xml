@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 01 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Believes Expensive Wine Tastes Better. In 6,175 Blind Tastings, the Correlation Between Price and Enjoyment Was Negative.</title>
+    <link>https://studiessuggest.org/stories/expensive-wine-tastes-no-better.html</link>
+    <description>A landmark study tracked 506 adults tasting 523 different wines without knowing the prices. Non-experts rated expensive wines slightly lower, and a companion fMRI study showed why the price tag works: it activates the brain's pleasure center, making identical wine taste better when you think it cost more.</description>
+    <pubDate>Thu, 02 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/expensive-wine-tastes-no-better.html</guid>
+    <category>Economics</category>
+  </item>
 
   <item>
     <title>Police, Judges, and Federal Agents Are Trained to Spot Liars. A Meta-Analysis of 206 Studies Found They Perform No Better Than Untrained College Students.</title>
