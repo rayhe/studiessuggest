@@ -5,8 +5,26 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 05 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Humans Are Overconfident About Almost Everything. Five Studies Found the One Exception: After Conversations, People Systematically Underestimate How Much Others Liked Them.</title>
+    <link>https://studiessuggest.org/stories/people-like-you-more-than-you-think.html</link>
+    <description>Five studies at Cornell, Harvard, Yale, and Essex tracked strangers, workshop attendees, and college suite mates. In every sample, participants believed they made a worse impression than they actually did, and the error lingered for nine months. Third-party observers could see the warmth that participants themselves missed.</description>
+    <pubDate>Sat, 05 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/people-like-you-more-than-you-think.html</guid>
+    <category>Psychology</category>
+  </item>
+
+  <item>
+    <title>BMI Guidelines Say Overweight Is a Health Risk. A JAMA Meta-Analysis of 2.88 Million People Found Those Classified as Overweight Were Less Likely to Die Than Those at 'Normal' Weight.</title>
+    <link>https://studiessuggest.org/stories/overweight-lower-mortality-than-normal-bmi.html</link>
+    <description>A systematic review of 97 prospective studies encompassing more than 2.88 million individuals and 270,000 deaths found that overweight adults (BMI 25-30) had 6% lower all-cause mortality than those at "normal" weight, while only severe obesity (BMI 35+) carried significantly higher risk.</description>
+    <pubDate>Sat, 04 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/overweight-lower-mortality-than-normal-bmi.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Everyone Believes Expensive Wine Tastes Better. In 6,175 Blind Tastings, the Correlation Between Price and Enjoyment Was Negative.</title>

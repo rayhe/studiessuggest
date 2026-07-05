@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'people-like-you-more-than-you-think', title: 'Humans Are Overconfident About Almost Everything. Five Studies Found the One Exception: After Conversations, People Systematically Underestimate How Much Others Liked Them.' },
+    { slug: 'overweight-lower-mortality-than-normal-bmi', title: 'BMI Guidelines Say Overweight Is a Health Risk. A JAMA Meta-Analysis of 2.88 Million People Found Those Classified as Overweight Were Less Likely to Die Than Those at \'Normal\' Weight.' },
     { slug: 'expensive-wine-tastes-no-better', title: 'Everyone Believes Expensive Wine Tastes Better. In 6,175 Blind Tastings, the Correlation Between Price and Enjoyment Was Negative.' },
     { slug: 'humans-cannot-detect-lies', title: 'Police, Judges, and Federal Agents Are Trained to Spot Liars. A Meta-Analysis of 206 Studies Found They Perform No Better Than Untrained College Students.' },
     { slug: 'farm-dust-protects-children-asthma', title: 'Parents Sanitize Everything to Protect Their Children. Amish Children Who Grow Up in Barn Dust Have One-Quarter the Asthma Rate of Their Genetically Similar Neighbors.' },
