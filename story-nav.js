@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'bystanders-almost-always-intervene', title: 'The Most Famous Finding in Social Psychology Says Bystanders Won\'t Help. Surveillance Footage from Three Countries Found They Intervene 91% of the Time.' },
     { slug: 'people-like-you-more-than-you-think', title: 'Humans Are Overconfident About Almost Everything. Five Studies Found the One Exception: After Conversations, People Systematically Underestimate How Much Others Liked Them.' },
     { slug: 'overweight-lower-mortality-than-normal-bmi', title: 'BMI Guidelines Say Overweight Is a Health Risk. A JAMA Meta-Analysis of 2.88 Million People Found Those Classified as Overweight Were Less Likely to Die Than Those at \'Normal\' Weight.' },
     { slug: 'expensive-wine-tastes-no-better', title: 'Everyone Believes Expensive Wine Tastes Better. In 6,175 Blind Tastings, the Correlation Between Price and Enjoyment Was Negative.' },

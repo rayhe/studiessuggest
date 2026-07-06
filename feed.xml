@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 05 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>The Most Famous Finding in Social Psychology Says Bystanders Won't Help. Surveillance Footage from Three Countries Found They Intervene 91% of the Time.</title>
+    <link>https://studiessuggest.org/stories/bystanders-almost-always-intervene.html</link>
+    <description>An analysis of 219 surveillance videos from Amsterdam, Cape Town, and Lancaster found that at least one bystander stepped in during 9 out of 10 public conflicts, with more bystanders increasing the likelihood of help — directly contradicting a half-century of textbook bystander-effect research built on the debunked Kitty Genovese story.</description>
+    <pubDate>Mon, 06 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/bystanders-almost-always-intervene.html</guid>
+    <category>Social Science</category>
+  </item>
 
   <item>
     <title>Humans Are Overconfident About Almost Everything. Five Studies Found the One Exception: After Conversations, People Systematically Underestimate How Much Others Liked Them.</title>
