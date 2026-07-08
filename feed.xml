@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Told You to Watch Your Mouth. Six Experiments Found Swearing Increases Pain Tolerance — but Frequent Swearers Get Almost No Benefit.</title>
+    <link>https://studiessuggest.org/stories/swearing-increases-pain-tolerance.html</link>
+    <description>A repeated-measures experiment at Keele University found that participants who repeated a self-selected swear word could endure ice water for an average of 31 seconds longer than when using a neutral word. Replicated across six studies including cross-cultural validation — but habitual swearers show a diminished response.</description>
+    <pubDate>Wed, 08 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/swearing-increases-pain-tolerance.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Your Doctor Worries About Your Weight. Not Your Friendships. A Meta-Analysis of 308,849 People Found Social Isolation Is Deadlier Than Obesity.</title>

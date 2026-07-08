@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'swearing-increases-pain-tolerance', title: 'Everyone Told You to Watch Your Mouth. Six Experiments Found Swearing Increases Pain Tolerance — but Frequent Swearers Get Almost No Benefit.' },
     { slug: 'loneliness-deadlier-than-obesity', title: 'Your Doctor Worries About Your Weight. Not Your Friendships. A Meta-Analysis of 308,849 People Found Social Isolation Is Deadlier Than Obesity.' },
     { slug: 'bystanders-almost-always-intervene', title: 'The Most Famous Finding in Social Psychology Says Bystanders Won\'t Help. Surveillance Footage from Three Countries Found They Intervene 91% of the Time.' },
     { slug: 'people-like-you-more-than-you-think', title: 'Humans Are Overconfident About Almost Everything. Five Studies Found the One Exception: After Conversations, People Systematically Underestimate How Much Others Liked Them.' },
