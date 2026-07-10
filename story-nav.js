@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'nostalgia-was-a-disease-now-it-heals', title: 'For 300 Years, Doctors Classified Nostalgia as a Potentially Fatal Disease. Seven Studies Found It Actually Strengthens Mental Health.' },
     { slug: 'speed-reading-is-just-skimming', title: 'Speed Reading Apps Promise 1,000 Words per Minute. A Review of Decades of Eye-Tracking Research Found the Entire Premise Is Biologically Impossible.' },
     { slug: 'swearing-increases-pain-tolerance', title: 'Everyone Told You to Watch Your Mouth. Six Experiments Found Swearing Increases Pain Tolerance — but Frequent Swearers Get Almost No Benefit.' },
     { slug: 'loneliness-deadlier-than-obesity', title: 'Your Doctor Worries About Your Weight. Not Your Friendships. A Meta-Analysis of 308,849 People Found Social Isolation Is Deadlier Than Obesity.' },
