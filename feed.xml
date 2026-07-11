@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Parent Limits Screen Time to Protect Their Child's Eyes. A Randomized Trial of 1,903 Children Found That Adding 40 Minutes of Outdoor Time Cut Nearsightedness by 23%.</title>
+    <link>https://studiessuggest.org/stories/outdoor-light-prevents-childhood-myopia.html</link>
+    <description>A cluster randomized trial in Guangzhou, China, assigned 12 primary schools to add 40 minutes of outdoor activity per school day or continue as usual. Over three years, myopia incidence dropped from 39.5% to 30.4% in the outdoor group. The mechanism: bright daylight triggers retinal dopamine release that slows eye growth, and typical indoor lighting is 50 to 200 times too dim to activate it.</description>
+    <pubDate>Sat, 11 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/outdoor-light-prevents-childhood-myopia.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>For 300 Years, Doctors Classified Nostalgia as a Potentially Fatal Disease. Seven Studies Found It Actually Strengthens Mental Health.</title>
