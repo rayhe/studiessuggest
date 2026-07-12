@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Millions Follow the 16:8 Rule: Eat for Eight Hours, Fast for Sixteen, Lose More Weight. A Year-Long NEJM Trial Found the Fasting Window Adds Nothing.</title>
+    <link>https://studiessuggest.org/stories/fasting-windows-dont-boost-weight-loss.html</link>
+    <description>A randomized trial assigned 139 adults with obesity to calorie restriction with an eight-hour eating window or calorie restriction alone. After 12 months, the fasting group lost 8.0 kg and the non-fasting group lost 6.3 kg — a difference that was not statistically significant. No metabolic marker differed between groups. The clock wasn't the mechanism. The calories were.</description>
+    <pubDate>Sun, 12 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/fasting-windows-dont-boost-weight-loss.html</guid>
+    <category>Nutrition</category>
+  </item>
 
   <item>
     <title>Every Parent Limits Screen Time to Protect Their Child's Eyes. A Randomized Trial of 1,903 Children Found That Adding 40 Minutes of Outdoor Time Cut Nearsightedness by 23%.</title>
