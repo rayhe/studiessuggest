@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'failing-first-improves-learning', title: 'Every Classroom Teaches the Lesson Before Assigning Problems. A Meta-Analysis of 53 Studies Found Students Learn More Deeply When They Struggle and Fail First.' },
     { slug: 'fasting-windows-dont-boost-weight-loss', title: 'Millions Follow the 16:8 Rule: Eat for Eight Hours, Fast for Sixteen, Lose More Weight. A Year-Long NEJM Trial Found the Fasting Window Adds Nothing.' },
     { slug: 'outdoor-light-prevents-childhood-myopia', title: 'Every Parent Limits Screen Time to Protect Their Child\'s Eyes. A Randomized Trial of 1,903 Children Found That Adding 40 Minutes of Outdoor Time Cut Nearsightedness by 23%.' },
     { slug: 'nostalgia-was-a-disease-now-it-heals', title: 'For 300 Years, Doctors Classified Nostalgia as a Potentially Fatal Disease. Seven Studies Found It Actually Strengthens Mental Health.' },

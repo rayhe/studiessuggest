@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Classroom Teaches the Lesson Before Assigning Problems. A Meta-Analysis of 53 Studies Found Students Learn More Deeply When They Struggle and Fail First.</title>
+    <link>https://studiessuggest.org/stories/failing-first-improves-learning.html</link>
+    <description>A meta-analysis of 53 studies and 166 comparisons found that students who attempt challenging problems before receiving instruction develop significantly greater conceptual understanding and transfer ability than those taught the traditional way, with effect sizes reaching 0.87 after adjusting for publication bias.</description>
+    <pubDate>Mon, 13 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/failing-first-improves-learning.html</guid>
+    <category>Education</category>
+  </item>
 
   <item>
     <title>Millions Follow the 16:8 Rule: Eat for Eight Hours, Fast for Sixteen, Lose More Weight. A Year-Long NEJM Trial Found the Fasting Window Adds Nothing.</title>
