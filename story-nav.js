@@ -4,6 +4,8 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'sauna-bathing-reduces-mortality', title: 'A 21-Year Study of 2,315 Middle-Aged Men Found Those Who Used a Sauna Four to Seven Times a Week Had 40% Lower Mortality and 63% Fewer Sudden Cardiac Deaths.' },
+    { slug: 'placebo-sleep-affects-cognition', title: 'Researchers Told 164 People They Slept Poorly. Their Cognitive Performance Dropped — Even Though Their Actual Sleep Was Fine.' },
     { slug: 'honey-outperforms-cough-treatments', title: 'Doctors Dismiss Honey as Folk Medicine. An Oxford Meta-Analysis of 1,761 Patients Found It Relieves Coughs and Colds Better Than Standard Treatments.' },
     { slug: 'failing-first-improves-learning', title: 'Every Classroom Teaches the Lesson Before Assigning Problems. A Meta-Analysis of 53 Studies Found Students Learn More Deeply When They Struggle and Fail First.' },
     { slug: 'fasting-windows-dont-boost-weight-loss', title: 'Millions Follow the 16:8 Rule: Eat for Eight Hours, Fast for Sixteen, Lose More Weight. A Year-Long NEJM Trial Found the Fasting Window Adds Nothing.' },

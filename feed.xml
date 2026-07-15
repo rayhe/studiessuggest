@@ -5,8 +5,26 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 15 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>A 21-Year Study of 2,315 Middle-Aged Men Found Those Who Used a Sauna Four to Seven Times a Week Had 40% Lower Mortality and 63% Fewer Sudden Cardiac Deaths.</title>
+    <link>https://studiessuggest.org/stories/sauna-bathing-reduces-mortality.html</link>
+    <description>In the Kuopio Ischemic Heart Disease Risk Factor Study, Finnish men who bathed in a sauna four to seven times per week showed dramatically reduced cardiovascular and all-cause mortality over two decades, with hazard ratios as low as 0.37 for sudden cardiac death. A 2018 follow-up extended the findings to women.</description>
+    <pubDate>Tue, 15 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/sauna-bathing-reduces-mortality.html</guid>
+    <category>Health</category>
+  </item>
+
+  <item>
+    <title>Researchers Told 164 People They Slept Poorly. Their Cognitive Performance Dropped — Even Though Their Actual Sleep Was Fine.</title>
+    <link>https://studiessuggest.org/stories/placebo-sleep-affects-cognition.html</link>
+    <description>In two experiments at Colorado College, participants who were told — falsely — that they had below-average sleep quality scored dramatically worse on cognitive tests. Those told they slept above average performed better. Their actual sleep quality had no effect. Sleep trackers may be doing the same thing to millions of Americans every morning.</description>
+    <pubDate>Tue, 15 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/placebo-sleep-affects-cognition.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Doctors Dismiss Honey as Folk Medicine. An Oxford Meta-Analysis of 1,761 Patients Found It Relieves Coughs and Colds Better Than Standard Treatments.</title>
