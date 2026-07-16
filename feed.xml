@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 15 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 16 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Dirty Air Doesn't Just Damage Lungs. A Study of 2 Million Chicago Crimes Found Pollution Increased Violent Assaults — With No Effect on Property Crime.</title>
+    <link>https://studiessuggest.org/stories/air-pollution-increases-violent-crime.html</link>
+    <description>Using twelve years of geolocated crime data and wind patterns that randomly shifted pollution across Chicago neighborhoods, economists established that air pollution causally increases violent crime. Four independent replications across three countries confirmed the finding.</description>
+    <pubDate>Wed, 16 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/air-pollution-increases-violent-crime.html</guid>
+    <category>Policy</category>
+  </item>
 
   <item>
     <title>A 21-Year Study of 2,315 Middle-Aged Men Found Those Who Used a Sauna Four to Seven Times a Week Had 40% Lower Mortality and 63% Fewer Sudden Cardiac Deaths.</title>
