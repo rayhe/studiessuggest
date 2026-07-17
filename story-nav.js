@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'tetris-blocks-ptsd-flashbacks', title: 'Playing Tetris After a Traumatic Event Reduced Flashbacks Tenfold. A Lancet Psychiatry Trial of 99 Healthcare Workers Found a 20-Minute Video Game Outperformed Standard Care.' },
     { slug: 'air-pollution-increases-violent-crime', title: 'Dirty Air Doesn\'t Just Damage Lungs. A Study of 2 Million Chicago Crimes Found Pollution Increased Violent Assaults — With No Effect on Property Crime.' },
     { slug: 'sauna-bathing-reduces-mortality', title: 'A 21-Year Study of 2,315 Middle-Aged Men Found Those Who Used a Sauna Four to Seven Times a Week Had 40% Lower Mortality and 63% Fewer Sudden Cardiac Deaths.' },
     { slug: 'placebo-sleep-affects-cognition', title: 'Researchers Told 164 People They Slept Poorly. Their Cognitive Performance Dropped — Even Though Their Actual Sleep Was Fine.' },

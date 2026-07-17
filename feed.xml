@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 16 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 17 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Playing Tetris After a Traumatic Event Reduced Flashbacks Tenfold. A Lancet Psychiatry Trial of 99 Healthcare Workers Found a 20-Minute Video Game Outperformed Standard Care.</title>
+    <link>https://studiessuggest.org/stories/tetris-blocks-ptsd-flashbacks.html</link>
+    <description>A randomized controlled trial gave COVID-era healthcare workers a single guided session of Tetris with mental rotation, then let them replay at home. After four weeks, they reported ten times fewer intrusive memories than two control groups. At six months, 70% had none at all.</description>
+    <pubDate>Thu, 17 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/tetris-blocks-ptsd-flashbacks.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Dirty Air Doesn't Just Damage Lungs. A Study of 2 Million Chicago Crimes Found Pollution Increased Violent Assaults — With No Effect on Property Crime.</title>
