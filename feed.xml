@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 17 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Children Who Grew Up Near Trees Had Up to 55% Lower Risk of Mental Illness. A Study of 943,027 Danes Used Satellite Imagery to Track Every Child From Birth.</title>
+    <link>https://studiessuggest.org/stories/childhood-green-space-reduces-mental-illness.html</link>
+    <description>Using three decades of Landsat satellite data and Denmark's national psychiatric registers, researchers mapped green space around the childhood home of nearly a million people and found those with the least vegetation nearby were far more likely to develop depression, anxiety, and schizophrenia in adulthood.</description>
+    <pubDate>Sat, 18 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/childhood-green-space-reduces-mental-illness.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Playing Tetris After a Traumatic Event Reduced Flashbacks Tenfold. A Lancet Psychiatry Trial of 99 Healthcare Workers Found a 20-Minute Video Game Outperformed Standard Care.</title>

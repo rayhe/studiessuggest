@@ -1,0 +1,9 @@
+{
+  "text": "{\"file_path\":\"\\/mnt\\/data\\/image.webp\",\"snapshot_handle\":\"GOLDryy5NmwWSK0DAFQZET_ULylDbg1iAQBj\",\"status\":\"Generated 1 image(s)\",\"tools_called_tag\":\"\\n[tools_called: generate_image]\",\"usage\":{\"generation_calls\":1,\"input_tokens\":9958,\"output_tokens\":757,\"reasoning_tokens\":147},\"media_context_handle\":\"nm9uyz\"}",
+  "attachments": [
+    {
+      "url": "https://scontent.xx.fbcdn.net/v/t39.105495-1/751438973_1034023832323634_6085407795161018852_n.webp?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=102&_nc_ohc=8LSsM7Cwp1QQ7kNvwGEvaCs&sdl=0&ccb=14-4&oh=00_AQB5grD-ZFZLDOwCExfc6UHGG3bTtZzM0Q7oufc6sqezeg&oe=6A617FE8&_nc_sid=a21977",
+      "media_handle": ""
+    }
+  ]
+}
