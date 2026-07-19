@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'people-prefer-shocks-over-thinking-alone', title: 'Participants Said They\u2019d Pay to Avoid an Electric Shock. Then 67% of Men Chose It Over Fifteen Minutes Alone with Their Thoughts.' },
     { slug: 'childhood-green-space-reduces-mental-illness', title: 'Children Who Grew Up Near Trees Had Up to 55% Lower Risk of Mental Illness. A Study of 943,027 Danes Used Satellite Imagery to Track Every Child From Birth.' },
     { slug: 'tetris-blocks-ptsd-flashbacks', title: 'Playing Tetris After a Traumatic Event Reduced Flashbacks Tenfold. A Lancet Psychiatry Trial of 99 Healthcare Workers Found a 20-Minute Video Game Outperformed Standard Care.' },
     { slug: 'air-pollution-increases-violent-crime', title: 'Dirty Air Doesn\'t Just Damage Lungs. A Study of 2 Million Chicago Crimes Found Pollution Increased Violent Assaults — With No Effect on Property Crime.' },
