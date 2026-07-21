@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Three-Quarters of Americans Had Triclosan in Their Urine. A Systematic Review of 27 Studies Found the Antibacterial Soap That Put It There Killed No More Germs Than Plain Soap.</title>
+    <link>https://studiessuggest.org/stories/antibacterial-soap-no-better-than-plain-soap.html</link>
+    <description>A University of Michigan team reviewed every published study comparing antibacterial and plain soap in real-world settings and found zero additional health benefit — a finding so consistent that the FDA eventually banned 19 antibacterial ingredients from consumer soaps entirely.</description>
+    <pubDate>Tue, 21 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/antibacterial-soap-no-better-than-plain-soap.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Every Doctor Checks Your Blood Pressure. A Study of 139,691 People Across 17 Countries Found Grip Strength Predicts Cardiovascular Death More Accurately.</title>
