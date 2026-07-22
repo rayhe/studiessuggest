@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'homework-no-benefit-elementary-school', title: 'Every Parent Believes Homework Helps Their Child Learn. A Duke University Research Synthesis Found That for Elementary Students, the Correlation With Achievement Is Effectively Zero.' },
     { slug: 'antibacterial-soap-no-better-than-plain-soap', title: 'Three-Quarters of Americans Had Triclosan in Their Urine. A Systematic Review of 27 Studies Found the Antibacterial Soap That Put It There Killed No More Germs Than Plain Soap.' },
     { slug: 'grip-strength-predicts-death-better-than-blood-pressure', title: 'Every Doctor Checks Your Blood Pressure. A Study of 139,691 People Across 17 Countries Found Grip Strength Predicts Cardiovascular Death More Accurately.' },
     { slug: 'people-prefer-shocks-over-thinking-alone', title: 'Participants Said They\u2019d Pay to Avoid an Electric Shock. Then 67% of Men Chose It Over Fifteen Minutes Alone with Their Thoughts.' },

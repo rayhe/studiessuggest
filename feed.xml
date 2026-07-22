@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 21 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Parent Believes Homework Helps Their Child Learn. A Duke University Research Synthesis Found That for Elementary Students, the Correlation With Achievement Is Effectively Zero.</title>
+    <link>https://studiessuggest.org/stories/homework-no-benefit-elementary-school.html</link>
+    <description>Harris Cooper and colleagues synthesized two decades of American homework research and found that for students in grades K through 6, the correlation between time spent on homework and academic achievement hovered around zero, a conclusion independently confirmed by John Hattie's analysis of over 100,000 students.</description>
+    <pubDate>Wed, 22 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/homework-no-benefit-elementary-school.html</guid>
+    <category>Education</category>
+  </item>
 
   <item>
     <title>Three-Quarters of Americans Had Triclosan in Their Urine. A Systematic Review of 27 Studies Found the Antibacterial Soap That Put It There Killed No More Germs Than Plain Soap.</title>
