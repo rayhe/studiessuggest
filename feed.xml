@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Assumes an Expensive Wedding Reflects a Stronger Commitment. A Study of 3,151 Marriages Found Couples Who Spent Over $20,000 Were 3.5 Times More Likely to Divorce.</title>
+    <link>https://studiessuggest.org/stories/expensive-weddings-predict-divorce.html</link>
+    <description>Emory University economists Francis-Tan and Mialon found that marriage duration is inversely associated with wedding spending but positively associated with the number of guests, suggesting that community support, not financial spectacle, predicts marital stability.</description>
+    <pubDate>Thu, 23 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/expensive-weddings-predict-divorce.html</guid>
+    <category>Economics</category>
+  </item>
 
   <item>
     <title>Every Parent Believes Homework Helps Their Child Learn. A Duke University Research Synthesis Found That for Elementary Students, the Correlation With Achievement Is Effectively Zero.</title>
