@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'bad-mood-improves-memory-judgment', title: 'Everyone Tells You to Cheer Up. Dozens of Experiments Found That a Bad Mood Makes Your Memory Sharper, Your Judgment More Accurate, and Your Arguments More Persuasive.' },
     { slug: 'expensive-weddings-predict-divorce', title: 'Everyone Assumes an Expensive Wedding Reflects a Stronger Commitment. A Study of 3,151 Marriages Found Couples Who Spent Over $20,000 Were 3.5 Times More Likely to Divorce.' },
     { slug: 'homework-no-benefit-elementary-school', title: 'Every Parent Believes Homework Helps Their Child Learn. A Duke University Research Synthesis Found That for Elementary Students, the Correlation With Achievement Is Effectively Zero.' },
     { slug: 'antibacterial-soap-no-better-than-plain-soap', title: 'Three-Quarters of Americans Had Triclosan in Their Urine. A Systematic Review of 27 Studies Found the Antibacterial Soap That Put It There Killed No More Germs Than Plain Soap.' },
