@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Dermatologist Says to Stay Out of the Sun. A 20-Year Study of 29,518 Swedish Women Found That Avoiding Sun Exposure Carried the Same Mortality Risk as Smoking.</title>
+    <link>https://studiessuggest.org/stories/sun-avoidance-doubles-mortality-risk.html</link>
+    <description>A prospective cohort study tracked 29,518 Swedish women for two decades and found that sun avoiders had roughly double the cardiovascular mortality of sun-seekers. Nonsmoking sun avoiders died at the same rate as smokers who spent the most time in the sun.</description>
+    <pubDate>Sat, 25 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/sun-avoidance-doubles-mortality-risk.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Everyone Tells You to Cheer Up. Dozens of Experiments Found That a Bad Mood Makes Your Memory Sharper, Your Judgment More Accurate, and Your Arguments More Persuasive.</title>
