@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'birth-order-does-not-shape-personality', title: 'Everyone Believes the Oldest Child Is Responsible and the Youngest Is a Rebel. The Largest Study of Birth Order and Personality, 377,000 People, Found the Correlation Is 0.02.' },
     { slug: 'sun-avoidance-doubles-mortality-risk', title: 'Every Dermatologist Says to Stay Out of the Sun. A 20-Year Study of 29,518 Swedish Women Found That Avoiding Sun Exposure Carried the Same Mortality Risk as Smoking.' },
     { slug: 'bad-mood-improves-memory-judgment', title: 'Everyone Tells You to Cheer Up. Dozens of Experiments Found That a Bad Mood Makes Your Memory Sharper, Your Judgment More Accurate, and Your Arguments More Persuasive.' },
     { slug: 'expensive-weddings-predict-divorce', title: 'Everyone Assumes an Expensive Wedding Reflects a Stronger Commitment. A Study of 3,151 Marriages Found Couples Who Spent Over $20,000 Were 3.5 Times More Likely to Divorce.' },
