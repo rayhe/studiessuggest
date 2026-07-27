@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 26 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Seeks Quiet to Think Clearly. Five Experiments Found That Coffee-Shop-Level Background Noise Makes You More Creative Than Silence.</title>
+    <link>https://studiessuggest.org/stories/moderate-noise-boosts-creativity.html</link>
+    <description>Five experiments totaling 330 participants found that moderate ambient noise at 70 decibels — roughly the hum of a busy café — enhanced creative performance over both quiet and loud environments. The mechanism: noise-induced processing difficulty forced the brain into abstract thinking.</description>
+    <pubDate>Mon, 27 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/moderate-noise-boosts-creativity.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Everyone Believes the Oldest Child Is Responsible and the Youngest Is a Rebel. The Largest Study of Birth Order and Personality, 377,000 People, Found the Correlation Is 0.02.</title>
