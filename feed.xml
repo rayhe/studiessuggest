@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 27 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Americans Spent $70 Billion on Organic Food Last Year for Health. A Stanford Review of 240 Studies Found the Nutritional Difference Is Negligible.</title>
+    <link>https://studiessuggest.org/stories/organic-food-not-more-nutritious.html</link>
+    <description>A systematic review of 17 human studies and 223 food-composition studies found no strong evidence that organic foods are significantly more nutritious than conventional alternatives. The premium buys lower pesticide residues, not better nutrition.</description>
+    <pubDate>Tue, 28 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/organic-food-not-more-nutritious.html</guid>
+    <category>Nutrition</category>
+  </item>
 
   <item>
     <title>Everyone Seeks Quiet to Think Clearly. Five Experiments Found That Coffee-Shop-Level Background Noise Makes You More Creative Than Silence.</title>
