@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'vitamin-d-supplements-dont-prevent-fractures', title: 'Vitamin D Is the World\'s Most Popular Bone Supplement. The Largest Trial Ever Conducted Found It Does Not Prevent Fractures.' },
     { slug: 'organic-food-not-more-nutritious', title: 'Americans Spent $70 Billion on Organic Food Last Year for Health. A Stanford Review of 240 Studies Found the Nutritional Difference Is Negligible.' },
     { slug: 'moderate-noise-boosts-creativity', title: 'Everyone Seeks Quiet to Think Clearly. Five Experiments Found That Coffee-Shop-Level Background Noise Makes You More Creative Than Silence.' },
     { slug: 'birth-order-does-not-shape-personality', title: 'Everyone Believes the Oldest Child Is Responsible and the Youngest Is a Rebel. The Largest Study of Birth Order and Personality, 377,000 People, Found the Correlation Is 0.02.' },

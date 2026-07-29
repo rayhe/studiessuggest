@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 28 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 29 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Vitamin D Is the World's Most Popular Bone Supplement. The Largest Trial Ever Conducted Found It Does Not Prevent Fractures.</title>
+    <link>https://studiessuggest.org/stories/vitamin-d-supplements-dont-prevent-fractures.html</link>
+    <description>A randomized trial of 25,871 adults tested whether 2,000 IU of daily vitamin D3 reduced fracture risk over five years. Total fractures, hip fractures, nonvertebral fractures: the hazard ratios were 0.98, 1.01, and 0.97. None reached significance.</description>
+    <pubDate>Tue, 29 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/vitamin-d-supplements-dont-prevent-fractures.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>Americans Spent $70 Billion on Organic Food Last Year for Health. A Stanford Review of 240 Studies Found the Nutritional Difference Is Negligible.</title>
