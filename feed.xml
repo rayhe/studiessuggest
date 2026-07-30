@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 29 Jul 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Nutritionist Says a Calorie Is a Calorie. An NIH Metabolic Ward Study Matched Two Diets for Calories, Sugar, Fat, and Fiber, Then Found People Ate 500 Extra Calories a Day on the Ultra-Processed One.</title>
+    <link>https://studiessuggest.org/stories/ultra-processed-food-drives-overeating.html</link>
+    <description>Twenty adults lived in an NIH metabolic ward for four weeks, eating two diets in random order. Both matched for calories, energy density, macronutrients, sugar, sodium, and fiber. On the ultra-processed diet, participants spontaneously consumed 508 more calories per day and gained nearly a kilogram in two weeks.</description>
+    <pubDate>Thu, 30 Jul 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/ultra-processed-food-drives-overeating.html</guid>
+    <category>Nutrition</category>
+  </item>
 
   <item>
     <title>Vitamin D Is the World's Most Popular Bone Supplement. The Largest Trial Ever Conducted Found It Does Not Prevent Fractures.</title>
