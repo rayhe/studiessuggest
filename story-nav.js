@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'meditation-adverse-effects-one-in-twelve', title: 'The NHS, Calm, and Your Therapist All Prescribe Meditation for Stress. A Systematic Review of 6,703 Participants Found One in Twelve Developed Anxiety, Depression, or Cognitive Problems Instead.' },
     { slug: 'ultra-processed-food-drives-overeating', title: 'Every Nutritionist Says a Calorie Is a Calorie. An NIH Metabolic Ward Study Matched Two Diets for Calories, Sugar, Fat, and Fiber, Then Found People Ate 500 Extra Calories a Day on the Ultra-Processed One.' },
     { slug: 'vitamin-d-supplements-dont-prevent-fractures', title: 'Vitamin D Is the World\'s Most Popular Bone Supplement. The Largest Trial Ever Conducted Found It Does Not Prevent Fractures.' },
     { slug: 'organic-food-not-more-nutritious', title: 'Americans Spent $70 Billion on Organic Food Last Year for Health. A Stanford Review of 240 Studies Found the Nutritional Difference Is Negligible.' },
