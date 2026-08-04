@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'smartphone-presence-reduces-cognitive-capacity', title: 'Putting Your Phone on Silent Should Be Enough. Two Experiments with 800 People Found That a Smartphone\u2019s Mere Presence Reduces Working Memory and Fluid Intelligence \u2014 Even When It\u2019s Off.' },
     { slug: 'one-leg-balance-test-predicts-death', title: 'Nobody Checks Your Balance at a Routine Physical. A Prospective Study of 1,702 Adults Found That Failing a Simple Ten-Second One-Leg Stand Nearly Doubled the Risk of Dying.' },
     { slug: 'resistance-training-reduces-anxiety', title: 'Everyone Prescribes Cardio for Anxiety. A Meta-Analysis of 16 Randomized Trials Found Lifting Weights Reduces Anxiety Symptoms With an Effect Size Comparable to Medication.' },
     { slug: 'cold-water-kills-germs-as-well-as-hot', title: 'Every Kitchen Sign Says Wash Your Hands with Hot Water. A Six-Month Rutgers Study Found Cold Water at 60°F Removes the Same Amount of Bacteria as Water at 100°F.' },
