@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 04 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Sits Down to Think Harder. Four Stanford Experiments Found Walking Increases Creative Output by 60 Percent, Even on a Treadmill Facing a Blank Wall.</title>
+    <link>https://studiessuggest.org/stories/walking-boosts-creative-thinking.html</link>
+    <description>Four experiments with 176 participants found walking boosts creative divergent thinking by 60% on average, including on a treadmill facing a blank wall. A 2026 meta-analysis of 23 studies confirmed a large effect (d = 0.93). Walking does nothing for focused analytical thinking.</description>
+    <pubDate>Wed, 05 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/walking-boosts-creative-thinking.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Putting Your Phone on Silent Should Be Enough. Two Experiments with 800 People Found That a Smartphone's Mere Presence Reduces Working Memory and Fluid Intelligence — Even When It's Off.</title>
