@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 05 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Knows Dogs Smell Better Than Humans. A Rutgers Neuroscientist Reviewed 150 Years of Evidence and Found the Whole Idea Traces Back to a Single Untested Hypothesis From 1879.</title>
+    <link>https://studiessuggest.org/stories/human-smell-rivals-dogs-19th-century-myth.html</link>
+    <description>A Science review dismantled the textbook claim that humans are poor smellers. The human olfactory bulb contains a similar neuron count to other mammals, humans outperform dogs on certain odors, and untrained volunteers can track scent trails across a field — an ability attributed exclusively to animals for centuries.</description>
+    <pubDate>Thu, 06 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/human-smell-rivals-dogs-19th-century-myth.html</guid>
+    <category>Biology</category>
+  </item>
 
   <item>
     <title>Everyone Sits Down to Think Harder. Four Stanford Experiments Found Walking Increases Creative Output by 60 Percent, Even on a Treadmill Facing a Blank Wall.</title>
