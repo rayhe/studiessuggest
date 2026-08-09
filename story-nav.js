@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'changing-test-answers-improves-scores', title: 'Every Test-Prep Book Says Go with Your First Instinct. A Review of 33 Studies Found That Changed Answers Go From Wrong to Right Twice as Often as Right to Wrong.' },
     { slug: 'daydreaming-makes-you-unhappy', title: 'Everyone Celebrates Daydreaming. A Harvard Study Tracking 2,250 Adults in Real Time Found That a Wandering Mind Is an Unhappy Mind \u2014 No Matter Where It Wanders.' },
     { slug: 'practice-does-not-make-perfect', title: 'Malcolm Gladwell Said 10,000 Hours of Practice Produces Expertise. A Meta-Analysis of 88 Studies Found Practice Explains Just 12% of the Gap Between Top Performers and Everyone Else.' },
     { slug: 'human-smell-rivals-dogs-19th-century-myth', title: 'Everyone Knows Dogs Smell Better Than Humans. A Rutgers Neuroscientist Reviewed 150 Years of Evidence and Found the Whole Idea Traces Back to a Single Untested Hypothesis From 1879.' },
