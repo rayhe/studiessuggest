@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 09 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Believes Speaking Two Languages Sharpens the Mind. A Meta-Analysis of 891 Effect Sizes From 152 Studies Found the Advantage Disappears After Correcting for Publication Bias.</title>
+    <link>https://studiessuggest.org/stories/bilingualism-no-cognitive-advantage.html</link>
+    <description>The "bilingual advantage" has been one of cognitive psychology's most influential claims for two decades. It shaped school curricula, parenting advice, and government policy. Multiple large-scale studies and a comprehensive meta-analysis now show it was sustained more by selective publishing than by evidence.</description>
+    <pubDate>Mon, 10 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/bilingualism-no-cognitive-advantage.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Every Test-Prep Book Says Go with Your First Instinct. A Review of 33 Studies Found That Changed Answers Go From Wrong to Right Twice as Often as Right to Wrong.</title>
