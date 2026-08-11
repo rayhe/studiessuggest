@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 10 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Dreads Getting Older. A Gallup Survey of 340,847 Americans Found That Emotional Well-Being Improves After 50, With Stress and Anger Declining Steadily From the Early 20s.</title>
+    <link>https://studiessuggest.org/stories/aging-improves-emotional-well-being.html</link>
+    <description>Ageism runs deep enough that most people assume growing older means growing unhappier. A massive Gallup survey, a decade-long experience-sampling study, and cross-national evidence from 145 countries reveal the opposite pattern: emotional well-being bottoms out in midlife and climbs through old age.</description>
+    <pubDate>Tue, 11 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/aging-improves-emotional-well-being.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Everyone Believes Speaking Two Languages Sharpens the Mind. A Meta-Analysis of 891 Effect Sizes From 152 Studies Found the Advantage Disappears After Correcting for Publication Bias.</title>
