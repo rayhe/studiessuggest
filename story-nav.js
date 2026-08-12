@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'body-temperature-keeps-dropping', title: 'Everyone Knows Normal Body Temperature Is 98.6\u00B0F. A Stanford Analysis of 677,423 Measurements Found It Has Dropped by More Than a Full Degree Since the Civil War.' },
     { slug: 'aging-improves-emotional-well-being', title: 'Everyone Dreads Getting Older. A Gallup Survey of 340,847 Americans Found That Emotional Well-Being Improves After 50, With Stress and Anger Declining Steadily From the Early 20s.' },
     { slug: 'bilingualism-no-cognitive-advantage', title: 'Everyone Believes Speaking Two Languages Sharpens the Mind. A Meta-Analysis of 891 Effect Sizes From 152 Studies Found the Advantage Disappears After Correcting for Publication Bias.' },
     { slug: 'changing-test-answers-improves-scores', title: 'Every Test-Prep Book Says Go with Your First Instinct. A Review of 33 Studies Found That Changed Answers Go From Wrong to Right Twice as Often as Right to Wrong.' },

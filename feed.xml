@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 11 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Knows Normal Body Temperature Is 98.6°F. A Stanford Analysis of 677,423 Measurements Found It Has Dropped by More Than a Full Degree Since the Civil War.</title>
+    <link>https://studiessuggest.org/stories/body-temperature-keeps-dropping.html</link>
+    <description>The number drilled into every medical student, printed on every thermometer box, and cited by every worried parent has been sliding downward for at least 157 years. Three cohorts spanning the Civil War to the smartphone era show the decline is real, monotonic, and global.</description>
+    <pubDate>Wed, 12 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/body-temperature-keeps-dropping.html</guid>
+    <category>Biology</category>
+  </item>
 
   <item>
     <title>Everyone Dreads Getting Older. A Gallup Survey of 340,847 Americans Found That Emotional Well-Being Improves After 50, With Stress and Anger Declining Steadily From the Early 20s.</title>
