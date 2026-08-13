@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 12 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Hundreds of Studies Confirmed That the Least Competent People Are the Most Overconfident. A Psychological Review Paper Found They All Fell for the Same Statistical Illusion.</title>
+    <link>https://studiessuggest.org/stories/dunning-kruger-is-statistical-illusion.html</link>
+    <description>The Dunning-Kruger effect became the internet's favorite scientific takedown. Multiple independent analyses now show the famous pattern is manufactured by the statistics, not by human cognition, and the real relationship between skill and overconfidence runs in the opposite direction.</description>
+    <pubDate>Thu, 13 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/dunning-kruger-is-statistical-illusion.html</guid>
+    <category>Psychology</category>
+  </item>
 
   <item>
     <title>Everyone Knows Normal Body Temperature Is 98.6°F. A Stanford Analysis of 677,423 Measurements Found It Has Dropped by More Than a Full Degree Since the Civil War.</title>
