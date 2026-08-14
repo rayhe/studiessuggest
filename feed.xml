@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 13 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Every Parent Tells Their Child "You're So Smart." Six Experiments Found That Praise for Intelligence Makes Children Avoid Challenges, Quit Faster, and Lie About Their Scores.</title>
+    <link>https://studiessuggest.org/stories/intelligence-praise-undermines-children.html</link>
+    <description>Six randomized experiments gave fifth graders identical positive feedback after a successful test, adding just one sentence: "You must be smart" or "You must have worked hard." That single sentence split children into two groups with opposite responses to failure.</description>
+    <pubDate>Fri, 14 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/intelligence-praise-undermines-children.html</guid>
+    <category>Education</category>
+  </item>
 
   <item>
     <title>Hundreds of Studies Confirmed That the Least Competent People Are the Most Overconfident. A Psychological Review Paper Found They All Fell for the Same Statistical Illusion.</title>
