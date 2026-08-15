@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'smell-loss-predicts-mortality', title: 'Nobody Tests Your Sense of Smell at a Physical. A Study of 3,005 Older Adults Found That Failing a Simple Scratch-and-Sniff Test Tripled the Odds of Dying Within Five Years.' },
     { slug: 'intelligence-praise-undermines-children', title: 'Every Parent Tells Their Child \u201CYou\u2019re So Smart.\u201D Six Experiments Found That Praise for Intelligence Makes Children Avoid Challenges, Quit Faster, and Lie About Their Scores.' },
     { slug: 'dunning-kruger-is-statistical-illusion', title: 'Hundreds of Studies Confirmed That the Least Competent People Are the Most Overconfident. A Psychological Review Paper Found They All Fell for the Same Statistical Illusion.' },
     { slug: 'body-temperature-keeps-dropping', title: 'Everyone Knows Normal Body Temperature Is 98.6\u00B0F. A Stanford Analysis of 677,423 Measurements Found It Has Dropped by More Than a Full Degree Since the Civil War.' },
