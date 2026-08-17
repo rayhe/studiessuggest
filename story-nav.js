@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'city-trees-grow-faster-die-younger', title: 'Everyone Assumes Cities Are Hostile to Trees. A Study of 1,383 Trees Across Ten Metropolises Found They Grow Up to 25% Faster in Concrete Than in Forest Soil.' },
     { slug: 'light-weights-build-same-muscle-as-heavy', title: 'Every Gym in the World Says Lift Heavy to Build Muscle. A Meta-Analysis of 21 Studies Found That Loads as Light as 30% of Your Max Produce the Same Hypertrophy.' },
     { slug: 'smell-loss-predicts-mortality', title: 'Nobody Tests Your Sense of Smell at a Physical. A Study of 3,005 Older Adults Found That Failing a Simple Scratch-and-Sniff Test Tripled the Odds of Dying Within Five Years.' },
     { slug: 'intelligence-praise-undermines-children', title: 'Every Parent Tells Their Child \u201CYou\u2019re So Smart.\u201D Six Experiments Found That Praise for Intelligence Makes Children Avoid Challenges, Quit Faster, and Lie About Their Scores.' },

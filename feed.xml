@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 16 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Assumes Cities Are Hostile to Trees. A Study of 1,383 Trees Across Ten Metropolises Found They Grow Up to 25% Faster in Concrete Than in Forest Soil.</title>
+    <link>https://studiessuggest.org/stories/city-trees-grow-faster-die-younger.html</link>
+    <description>An international team counted tree rings from Berlin to Brisbane and found that urban trees systematically outgrow their rural counterparts. A follow-up revealed the trade-off: city trees also die twice as fast.</description>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/city-trees-grow-faster-die-younger.html</guid>
+    <category>Environment</category>
+  </item>
 
   <item>
     <title>Every Gym in the World Says Lift Heavy to Build Muscle. A Meta-Analysis of 21 Studies Found That Loads as Light as 30% of Your Max Produce the Same Hypertrophy.</title>
