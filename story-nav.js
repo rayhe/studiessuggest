@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'identical-twins-diverge-epigenetically', title: 'Identical Twins Share Every Gene. A Study of 80 Twin Pairs Found That by Age 50, the Chemical Tags Controlling Their DNA Had Diverged So Much They Were No Longer Epigenetically Identical.' },
     { slug: 'stressed-plants-emit-airborne-sounds', title: 'Everyone Assumes Plants Are Silent. A Tel Aviv University Team Recorded Stressed Tomato Plants Emitting 35 Ultrasonic Clicks Per Hour at the Volume of Normal Conversation.' },
     { slug: 'city-trees-grow-faster-die-younger', title: 'Everyone Assumes Cities Are Hostile to Trees. A Study of 1,383 Trees Across Ten Metropolises Found They Grow Up to 25% Faster in Concrete Than in Forest Soil.' },
     { slug: 'light-weights-build-same-muscle-as-heavy', title: 'Every Gym in the World Says Lift Heavy to Build Muscle. A Meta-Analysis of 21 Studies Found That Loads as Light as 30% of Your Max Produce the Same Hypertrophy.' },

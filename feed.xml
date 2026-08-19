@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 18 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Identical Twins Share Every Gene. A Study of 80 Twin Pairs Found That by Age 50, the Chemical Tags Controlling Their DNA Had Diverged So Much They Were No Longer Epigenetically Identical.</title>
+    <link>https://studiessuggest.org/stories/identical-twins-diverge-epigenetically.html</link>
+    <description>A Spanish research team measured DNA methylation and histone acetylation in identical twin pairs aged 3 to 74. Young twins were epigenetically indistinguishable. Older twins showed roughly four times the variation in gene-controlling chemical modifications, with the largest gaps appearing in pairs who had spent more time apart or led different lifestyles.</description>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/identical-twins-diverge-epigenetically.html</guid>
+    <category>Biology</category>
+  </item>
 
   <item>
     <title>Everyone Assumes Plants Are Silent. A Tel Aviv University Team Recorded Stressed Tomato Plants Emitting 35 Ultrasonic Clicks Per Hour at the Volume of Normal Conversation.</title>
