@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'naps-outperform-caffeine-for-memory', title: '90% of Americans Use Caffeine Daily to Think Better. A Head-to-Head Trial Found a 60-Minute Nap Improved Memory While Caffeine Made It Worse.' },
     { slug: 'screen-reading-hurts-comprehension', title: 'Schools Replaced Books With Tablets. A Meta-Analysis of 54 Studies and 171,055 Readers Found Students Comprehend Less on Screens Than Paper \u2014 and the Deficit Grows Worse Every Year.' },
     { slug: 'mild-intoxication-boosts-creative-insight', title: 'Everyone Assumes Alcohol Only Impairs Thinking. A Study Found People Below the Legal Limit Solved 58% of Creative Puzzles Versus 42% for the Sober Group \u2014 and Solved Them Faster.' },
     { slug: 'identical-twins-diverge-epigenetically', title: 'Identical Twins Share Every Gene. A Study of 80 Twin Pairs Found That by Age 50, the Chemical Tags Controlling Their DNA Had Diverged So Much They Were No Longer Epigenetically Identical.' },
