@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 22 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Being a Night Owl Isn't Just a Preference. A Study of 433,268 Adults Found Evening Types Had a 10% Higher Risk of Dying Over Six and a Half Years — Even After Adjusting for Sleep Duration.</title>
+    <link>https://studiessuggest.org/stories/night-owls-higher-mortality-risk.html</link>
+    <description>Researchers tracked nearly half a million UK Biobank participants for six and a half years and found that self-identified definite evening types had significantly higher rates of diabetes, psychological disorders, and all-cause mortality compared to morning types.</description>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/night-owls-higher-mortality-risk.html</guid>
+    <category>Health</category>
+  </item>
 
   <item>
     <title>90% of Americans Use Caffeine Daily to Think Better. A Head-to-Head Trial Found a 60-Minute Nap Improved Memory While Caffeine Made It Worse.</title>

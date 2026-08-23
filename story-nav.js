@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'night-owls-higher-mortality-risk', title: 'Being a Night Owl Isn\u2019t Just a Preference. A Study of 433,268 Adults Found Evening Types Had a 10% Higher Risk of Dying Over Six and a Half Years \u2014 Even After Adjusting for Sleep Duration.' },
     { slug: 'naps-outperform-caffeine-for-memory', title: '90% of Americans Use Caffeine Daily to Think Better. A Head-to-Head Trial Found a 60-Minute Nap Improved Memory While Caffeine Made It Worse.' },
     { slug: 'screen-reading-hurts-comprehension', title: 'Schools Replaced Books With Tablets. A Meta-Analysis of 54 Studies and 171,055 Readers Found Students Comprehend Less on Screens Than Paper \u2014 and the Deficit Grows Worse Every Year.' },
     { slug: 'mild-intoxication-boosts-creative-insight', title: 'Everyone Assumes Alcohol Only Impairs Thinking. A Study Found People Below the Legal Limit Solved 58% of Creative Puzzles Versus 42% for the Sober Group \u2014 and Solved Them Faster.' },
