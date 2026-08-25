@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'spending-on-others-makes-you-happier', title: 'Everyone Assumes Spending Money on Yourself Feels Best. A Survey of 234,917 People Across 136 Countries Found Spending on Others Is a Stronger Predictor of Happiness, Even in the Poorest Nations.' },
     { slug: 'microdosing-psychedelics-no-better-than-placebo', title: 'Millions Microdose LSD for Creativity, Focus, and Well-Being. The Largest Placebo-Controlled Trial Found That Sugar Pills Produced the Same Improvements.' },
     { slug: 'night-owls-higher-mortality-risk', title: 'Being a Night Owl Isn\u2019t Just a Preference. A Study of 433,268 Adults Found Evening Types Had a 10% Higher Risk of Dying Over Six and a Half Years \u2014 Even After Adjusting for Sleep Duration.' },
     { slug: 'naps-outperform-caffeine-for-memory', title: '90% of Americans Use Caffeine Daily to Think Better. A Head-to-Head Trial Found a 60-Minute Nap Improved Memory While Caffeine Made It Worse.' },
