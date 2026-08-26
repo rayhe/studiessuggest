@@ -5,8 +5,17 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 25 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Everyone Stops Reading Aloud After Elementary School. Eight Experiments Found That Words Spoken to Yourself Are a Third More Memorable Than Words Read in Silence.</title>
+    <link>https://studiessuggest.org/stories/reading-aloud-boosts-memory.html</link>
+    <description>In eight experiments at the University of Waterloo, cognitive psychologist Colin MacLeod demonstrated that reading words aloud during study produces a consistent 15-to-20-percentage-point advantage in later recognition over silent reading — a phenomenon called the production effect.</description>
+    <pubDate>Wed, 26 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/reading-aloud-boosts-memory.html</guid>
+    <category>Education</category>
+  </item>
 
   <item>
     <title>Everyone Assumes Spending Money on Yourself Feels Best. A Survey of 234,917 People Across 136 Countries Found Spending on Others Is a Stronger Predictor of Happiness, Even in the Poorest Nations.</title>
