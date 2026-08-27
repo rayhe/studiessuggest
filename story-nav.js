@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'testosterone-increases-fair-bargaining', title: 'Everyone Blames Testosterone for Aggression. A Double-Blind Trial of 121 Women Found a Single Dose Made Them Fairer, While Merely Believing They Received It Made Them Greedier.' },
     { slug: 'reading-aloud-boosts-memory', title: 'Everyone Stops Reading Aloud After Elementary School. Eight Experiments Found That Words Spoken to Yourself Are a Third More Memorable Than Words Read in Silence.' },
     { slug: 'spending-on-others-makes-you-happier', title: 'Everyone Assumes Spending Money on Yourself Feels Best. A Survey of 234,917 People Across 136 Countries Found Spending on Others Is a Stronger Predictor of Happiness, Even in the Poorest Nations.' },
     { slug: 'microdosing-psychedelics-no-better-than-placebo', title: 'Millions Microdose LSD for Creativity, Focus, and Well-Being. The Largest Placebo-Controlled Trial Found That Sugar Pills Produced the Same Improvements.' },
