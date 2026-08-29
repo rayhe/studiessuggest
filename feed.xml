@@ -5,10 +5,19 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 27 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 29 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
 
   
+  <item>
+    <title>Everyone Assumes Typing Is Just Faster Handwriting. A 256-Sensor EEG Study Found Handwriting Creates Brain Connectivity That Typing Does Not.</title>
+    <link>https://studiessuggest.org/stories/handwriting-boosts-brain-connectivity.html</link>
+    <description>In a within-subjects EEG study of 36 students, Norwegian researchers found handwriting with a digital pen produced widespread theta/alpha coherence in parietal and central regions, while typing with one finger did not, suggesting precise hand movements shape learning networks.</description>
+    <pubDate>Fri, 29 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/handwriting-boosts-brain-connectivity.html</guid>
+    <category>Education</category>
+  </item>
+
   <item>
     <title>A Poster of Watching Eyes Tripled Honesty-Box Payments. Two Meta-Analyses Later Found the Effect Shrinks Toward Zero.</title>
     <link>https://studiessuggest.org/stories/watching-eyes-triple-honesty-box-payments.html</link>

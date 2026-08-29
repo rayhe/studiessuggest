@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'handwriting-boosts-brain-connectivity', title: 'Everyone Assumes Typing Is Just Faster Handwriting. A 256-Sensor EEG Study Found Handwriting Creates Brain Connectivity That Typing Does Not.' },
     { slug: 'watching-eyes-triple-honesty-box-payments', title: 'A Poster of Watching Eyes Tripled Honesty-Box Payments. Two Meta-Analyses Later Found the Effect Shrinks Toward Zero.' },
     { slug: 'testosterone-increases-fair-bargaining', title: 'Everyone Blames Testosterone for Aggression. A Double-Blind Trial of 121 Women Found a Single Dose Made Them Fairer, While Merely Believing They Received It Made Them Greedier.' },
     { slug: 'reading-aloud-boosts-memory', title: 'Everyone Stops Reading Aloud After Elementary School. Eight Experiments Found That Words Spoken to Yourself Are a Third More Memorable Than Words Read in Silence.' },
