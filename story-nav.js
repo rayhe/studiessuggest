@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'boredom-boosts-creativity', title: 'Everyone Treats Boredom as a Productivity Problem. Two Experiments Found That 15 Minutes of Copying Phone Numbers Increased Creative Output by 45%.' },
     { slug: 'handwriting-boosts-brain-connectivity', title: 'Everyone Assumes Typing Is Just Faster Handwriting. A 256-Sensor EEG Study Found Handwriting Creates Brain Connectivity That Typing Does Not.' },
     { slug: 'watching-eyes-triple-honesty-box-payments', title: 'A Poster of Watching Eyes Tripled Honesty-Box Payments. Two Meta-Analyses Later Found the Effect Shrinks Toward Zero.' },
     { slug: 'testosterone-increases-fair-bargaining', title: 'Everyone Blames Testosterone for Aggression. A Double-Blind Trial of 121 Women Found a Single Dose Made Them Fairer, While Merely Believing They Received It Made Them Greedier.' },
