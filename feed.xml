@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
+  <item>
+    <title>Everyone Assumes Convenience Wins. Four Experiments Found That Building an IKEA Box Makes You Value It 63% More — As Much as an Expert's Creation</title>
+    <link>https://studiessuggest.org/stories/ikea-effect-labor-leads-to-love.html</link>
+    <description>In four lab experiments at Harvard, Duke, and Tulane, researchers found people who successfully assembled their own storage boxes, origami, and Lego sets bid significantly more for their creations than others would pay for identical prebuilt items.</description>
+    <pubDate>Sun, 31 Aug 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/ikea-effect-labor-leads-to-love.html</guid>
+    <category>Economics</category>
+  </item>
+
   <title>Studies Suggest</title>
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 30 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 31 Aug 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
 
   
