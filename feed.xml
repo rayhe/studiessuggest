@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <item>
+    <title>Everyone Says Buy Local to Save the Planet. Two Life-Cycle Studies Found That Skipping Red Meat One Day a Week Beats Buying Everything Local</title>
+    <link>https://studiessuggest.org/stories/food-miles-matter-less-than-diet.html</link>
+    <description>Researchers at Carnegie Mellon traced the full climate cost of the average American household's food and found production causes 83 percent of its emissions while transport causes 11 percent. A decade later, a meta-analysis of 38,700 farms in 119 countries confirmed the verdict, with one 2022 update adding a genuine wrinkle.</description>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 -0700</pubDate>
+    <guid>https://studiessuggest.org/stories/food-miles-matter-less-than-diet.html</guid>
+    <category>Environment</category>
+  </item>
+
+  <item>
     <title>Everyone Assumes Convenience Wins. Four Experiments Found That Building an IKEA Box Makes You Value It 63% More — As Much as an Expert's Creation</title>
     <link>https://studiessuggest.org/stories/ikea-effect-labor-leads-to-love.html</link>
     <description>In four lab experiments at Harvard, Duke, and Tulane, researchers found people who successfully assembled their own storage boxes, origami, and Lego sets bid significantly more for their creations than others would pay for identical prebuilt items.</description>
@@ -14,7 +23,7 @@
   <link>https://studiessuggest.org</link>
   <description>Counterintuitive scientific findings, verified and well-sourced. Evidence that challenges what you think you know.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 31 Aug 2026 09:00:00 -0700</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 09:00:00 -0700</lastBuildDate>
   <atom:link href="https://studiessuggest.org/feed.xml" rel="self" type="application/rss+xml"/>
 
   
