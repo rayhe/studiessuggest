@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'imagined-eating-reduces-consumption', title: 'Everyone Thinks Imagining Food Makes You Crave It More. Five Experiments Found Imagining Eating 30 Times Cuts Subsequent Intake by Half' },
     { slug: 'food-miles-matter-less-than-diet', title: 'Everyone Says Buy Local to Save the Planet. Two Life-Cycle Studies Found That Skipping Red Meat One Day a Week Beats Buying Everything Local' },
     { slug: 'ikea-effect-labor-leads-to-love', title: 'Everyone Assumes Convenience Wins. Four Experiments Found That Building an IKEA Box Makes You Value It 63% More — As Much as an Expert\'s Creation' },
     { slug: 'boredom-boosts-creativity', title: 'Everyone Treats Boredom as a Productivity Problem. Two Experiments Found That 15 Minutes of Copying Phone Numbers Increased Creative Output by 45%.' },
