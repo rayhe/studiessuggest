@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'hot-hand-fallacy-reversed', title: 'Every Textbook Says the Hot Hand Is a Cognitive Illusion. Reanalyzing the Original Data With Corrected Math Found Shooters Really Do Get Hot' },
     { slug: 'imagined-eating-reduces-consumption', title: 'Everyone Thinks Imagining Food Makes You Crave It More. Five Experiments Found Imagining Eating 30 Times Cuts Subsequent Intake by Half' },
     { slug: 'food-miles-matter-less-than-diet', title: 'Everyone Says Buy Local to Save the Planet. Two Life-Cycle Studies Found That Skipping Red Meat One Day a Week Beats Buying Everything Local' },
     { slug: 'ikea-effect-labor-leads-to-love', title: 'Everyone Assumes Convenience Wins. Four Experiments Found That Building an IKEA Box Makes You Value It 63% More — As Much as an Expert\'s Creation' },
