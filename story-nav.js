@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'grit-mostly-conscientiousness', title: 'Grit Was Sold as the Secret to Success. A Meta-Analysis of 88 Studies Found It Is 84% Correlated With Conscientiousness and Adds Almost Nothing New' },
     { slug: 'hot-hand-fallacy-reversed', title: 'Every Textbook Says the Hot Hand Is a Cognitive Illusion. Reanalyzing the Original Data With Corrected Math Found Shooters Really Do Get Hot' },
     { slug: 'imagined-eating-reduces-consumption', title: 'Everyone Thinks Imagining Food Makes You Crave It More. Five Experiments Found Imagining Eating 30 Times Cuts Subsequent Intake by Half' },
     { slug: 'food-miles-matter-less-than-diet', title: 'Everyone Says Buy Local to Save the Planet. Two Life-Cycle Studies Found That Skipping Red Meat One Day a Week Beats Buying Everything Local' },
