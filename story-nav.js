@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'growth-mindset-interventions-barely-work', title: 'Growth Mindset Was Supposed to Revolutionize Education. Two Meta-Analyses of 423,000 Students Put the Intervention Effect at 0.08 Standard Deviations' },
     { slug: 'choice-blindness-swapped-decisions', title: 'Scientists Used a Magic Trick to Swap People\'s Choices. 87% Never Noticed, Then Explained in Detail Why They Chose What They Rejected' },
     { slug: 'grit-mostly-conscientiousness', title: 'Grit Was Sold as the Secret to Success. A Meta-Analysis of 88 Studies Found It Is 84% Correlated With Conscientiousness and Adds Almost Nothing New' },
     { slug: 'hot-hand-fallacy-reversed', title: 'Every Textbook Says the Hot Hand Is a Cognitive Illusion. Reanalyzing the Original Data With Corrected Math Found Shooters Really Do Get Hot' },
