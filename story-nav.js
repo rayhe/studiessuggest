@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'red-light-cameras-rear-end-crash-tradeoff', title: 'Red-Light Cameras Cut Dangerous T-Bone Crashes by 29% and Raise Rear-End Crashes by 19%. The Most Careful Studies Find the Net Safety Benefit Near Zero' },
     { slug: 'botox-injections-reduce-depression', title: 'Botox Paralyzes the Muscles You Frown With. A Double-Blind Trial Found It Lifted Depression in 52% of Patients, Against 15% on Placebo' },
     { slug: 'marshmallow-test-replication-debate', title: 'The Marshmallow Test Convinced the World That a Four-Year-Old\'s Willpower Predicts Adult Success. A 918-Child Replication Cut the Effect by Two Thirds, and Psychologists Are Still Fighting Over the Rest' },
     { slug: 'growth-mindset-interventions-barely-work', title: 'Growth Mindset Was Supposed to Revolutionize Education. Two Meta-Analyses of 423,000 Students Put the Intervention Effect at 0.08 Standard Deviations' },
