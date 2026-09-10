@@ -16,13 +16,11 @@ Legacy voice (do not delete existing files, but no longer used for new articles)
 |------|----------|-------|
 | mark | `OyWVL9LW2StlLFuOJIvc` | Original single-voice narrator |
 
-## API Details
-- **Provider:** ElevenLabs
-- **API Key:** `sk_4c3debb934ab6c750684bb27208577c1cfb9bbb136c05eda`
-- **Adam endpoint:** `https://api.elevenlabs.io/v1/text-to-speech/g14YnDYCsy3k7XLlcKlO`
-- **Eve endpoint:** `https://api.elevenlabs.io/v1/text-to-speech/56bWURjYFHyYyVf490Dp`
-- **Model:** `eleven_multilingual_v2`
-- **Output format:** MP3 (mp3_44100_128)
+## Provider
+- **Provider:** VoxCPM2 on Vision PC (Tailscale 100.71.215.1, RTX 4090) — Mac Mini ANE acceptable as fallback.
+- **NEVER use ElevenLabs TTS for voice generation.** The ElevenLabs TTS API key was deleted per Ray's directive (Aug 27, 2026). ElevenLabs STT (transcription only) remains available.
+- Reference voices for Adam/Eve live in the VoxCPM2 workflow; ASR-check reference audio before trimming; show Ray a sample before committing any voice change.
+- **Output format:** MP3
 
 ## File Naming Convention
 Each article gets TWO audio files:
@@ -36,7 +34,7 @@ Legacy files (`stories/{slug}.mp3`) are kept but not referenced by the player.
 ### During Article Publish
 1. Extract article body text from the HTML (strip tags, keep paragraph structure)
 2. Prepend the headline and byline as a spoken intro: "Studies Suggest. [Headline]. By [Author]."
-3. Call ElevenLabs TTS API **twice** — once for Adam, once for Eve
+3. Generate narration with VoxCPM2 **twice** — once for Adam, once for Eve (reference-voice workflow)
 4. Save as `stories/{slug}-adam.mp3` and `stories/{slug}-eve.mp3`
 5. Add the audio player HTML with `data-slug="{slug}"` (NOT `data-src`)
 
@@ -68,39 +66,6 @@ The voice selector UI (Adam/Eve toggle buttons) is injected by `story.js` automa
 ### Audio Player Styles (in story.css)
 The `.voice-selector` styles are at the end of story.css. The selector sits inside `.audio-player` and auto-aligns to the right. On mobile (<520px) it wraps to a new line.
 
-## ElevenLabs API Call Example
-```bash
-# Generate Adam version
-curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/g14YnDYCsy3k7XLlcKlO" \
-  -H "xi-api-key: sk_4c3debb934ab6c750684bb27208577c1cfb9bbb136c05eda" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "text": "Studies Suggest. [headline]. By [author]. [body text...]",
-    "model_id": "eleven_multilingual_v2",
-    "voice_settings": {
-      "stability": 0.5,
-      "similarity_boost": 0.75,
-      "style": 0.3
-    }
-  }' \
-  --output stories/article-slug-adam.mp3
-
-# Generate Eve version
-curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/56bWURjYFHyYyVf490Dp" \
-  -H "xi-api-key: sk_4c3debb934ab6c750684bb27208577c1cfb9bbb136c05eda" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "text": "Studies Suggest. [headline]. By [author]. [body text...]",
-    "model_id": "eleven_multilingual_v2",
-    "voice_settings": {
-      "stability": 0.5,
-      "similarity_boost": 0.75,
-      "style": 0.3
-    }
-  }' \
-  --output stories/article-slug-eve.mp3
-```
-
 ## Text Preparation Rules
 - Strip all HTML tags from article body
 - Convert tables to readable prose ("The study found X in group A versus Y in group B")
@@ -110,6 +75,6 @@ curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/56bWURjYFHyYyVf490Dp" 
 - Total text length should be under 5,000 characters per API call; split longer articles into chunks and concatenate the MP3s
 
 ## Failure Handling
-- If ElevenLabs API fails (rate limit, timeout), retry 3 times with exponential backoff
+- If VoxCPM2 generation fails, retry 3 times with backoff; if Vision PC is unreachable, try Mac Mini ANE
 - If all retries fail, publish the article without audio and log the failure — audio can be generated later
 - Never block article publication on audio generation failure
