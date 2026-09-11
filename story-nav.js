@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'standing-desks-dont-protect-your-heart', title: 'Standing More Didn\'t Lower Heart Disease Risk in 83,000 Adults. Every Extra Half Hour Above Two Hours a Day Was Linked to 11% Higher Circulatory Risk' },
     { slug: 'red-light-cameras-rear-end-crash-tradeoff', title: 'Red-Light Cameras Cut Dangerous T-Bone Crashes by 29% and Raise Rear-End Crashes by 19%. The Most Careful Studies Find the Net Safety Benefit Near Zero' },
     { slug: 'botox-injections-reduce-depression', title: 'Botox Paralyzes the Muscles You Frown With. A Double-Blind Trial Found It Lifted Depression in 52% of Patients, Against 15% on Placebo' },
     { slug: 'marshmallow-test-replication-debate', title: 'The Marshmallow Test Convinced the World That a Four-Year-Old\'s Willpower Predicts Adult Success. A 918-Child Replication Cut the Effect by Two Thirds, and Psychologists Are Still Fighting Over the Rest' },
