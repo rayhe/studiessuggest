@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'mouthwash-blunts-exercise-blood-pressure-benefit', title: 'Your Post-Workout Mouthwash Habit Erases 60% of Exercise\'s Blood-Pressure Benefit. A Crossover Trial in 23 Adults Found Oral Bacteria Are the Key That Keeps Blood Vessels Open After You Train' },
     { slug: 'multivitamins-dont-extend-your-life', title: 'Your Daily Multivitamin Will Not Help You Live Longer. 390,124 Adults Followed for 27 Years Got Zero Longevity Benefit, and a Whiff of the Opposite' },
     { slug: 'money-buys-happiness-after-all', title: 'The $75,000 Happiness Plateau Was Wrong. 1.7 Million Real-Time Mood Reports Show Money Keeps Buying Happiness, and Kahneman Co-Signed the Reversal' },
     { slug: 'standing-desks-dont-protect-your-heart', title: 'Standing More Didn\'t Lower Heart Disease Risk in 83,000 Adults. Every Extra Half Hour Above Two Hours a Day Was Linked to 11% Higher Circulatory Risk' },
