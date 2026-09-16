@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'fish-oil-doesnt-protect-your-heart', title: 'Fish Oil Will Not Protect Your Heart. 25,871 People Proved It Over Five Years, and 79 Trials Agree' },
     { slug: 'mouthwash-blunts-exercise-blood-pressure-benefit', title: 'Your Post-Workout Mouthwash Habit Erases 60% of Exercise\'s Blood-Pressure Benefit. A Crossover Trial in 23 Adults Found Oral Bacteria Are the Key That Keeps Blood Vessels Open After You Train' },
     { slug: 'multivitamins-dont-extend-your-life', title: 'Your Daily Multivitamin Will Not Help You Live Longer. 390,124 Adults Followed for 27 Years Got Zero Longevity Benefit, and a Whiff of the Opposite' },
     { slug: 'money-buys-happiness-after-all', title: 'The $75,000 Happiness Plateau Was Wrong. 1.7 Million Real-Time Mood Reports Show Money Keeps Buying Happiness, and Kahneman Co-Signed the Reversal' },
