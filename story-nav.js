@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'running-wont-ruin-your-knees', title: 'Running Won\'t Ruin Your Knees. 114,829 People Show Recreational Runners Get Arthritis at One-Third the Rate of the Sedentary' },
     { slug: 'full-fat-dairy-linked-to-lower-heart-risk', title: 'Whole-Fat Dairy Was Supposed to Clog Your Arteries. 136,384 People Across 21 Countries Ate More of It and Died Less' },
     { slug: 'fish-oil-doesnt-protect-your-heart', title: 'Fish Oil Will Not Protect Your Heart. 25,871 People Proved It Over Five Years, and 79 Trials Agree' },
     { slug: 'mouthwash-blunts-exercise-blood-pressure-benefit', title: 'Your Post-Workout Mouthwash Habit Erases 60% of Exercise\'s Blood-Pressure Benefit. A Crossover Trial in 23 Adults Found Oral Bacteria Are the Key That Keeps Blood Vessels Open After You Train' },
