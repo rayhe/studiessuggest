@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'rent-control-raised-rents', title: 'Rent Control Raised Rents. San Francisco\'s 1994 Expansion Cut Rental Supply 15% and Pushed Citywide Rents Up 5.1%' },
     { slug: 'running-wont-ruin-your-knees', title: 'Running Won\'t Ruin Your Knees. 114,829 People Show Recreational Runners Get Arthritis at One-Third the Rate of the Sedentary' },
     { slug: 'full-fat-dairy-linked-to-lower-heart-risk', title: 'Whole-Fat Dairy Was Supposed to Clog Your Arteries. 136,384 People Across 21 Countries Ate More of It and Died Less' },
     { slug: 'fish-oil-doesnt-protect-your-heart', title: 'Fish Oil Will Not Protect Your Heart. 25,871 People Proved It Over Five Years, and 79 Trials Agree' },
