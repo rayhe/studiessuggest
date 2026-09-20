@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'probiotics-slow-gut-recovery-after-antibiotics', title: 'Probiotics After Antibiotics May Slow Your Gut\'s Recovery. An 11-Strain Probiotic Kept 21 People\'s Gut Microbiomes From Rebuilding, While Their Own Banked Stool Restored It in Days' },
     { slug: 'rent-control-raised-rents', title: 'Rent Control Raised Rents. San Francisco\'s 1994 Expansion Cut Rental Supply 15% and Pushed Citywide Rents Up 5.1%' },
     { slug: 'running-wont-ruin-your-knees', title: 'Running Won\'t Ruin Your Knees. 114,829 People Show Recreational Runners Get Arthritis at One-Third the Rate of the Sedentary' },
     { slug: 'full-fat-dairy-linked-to-lower-heart-risk', title: 'Whole-Fat Dairy Was Supposed to Clog Your Arteries. 136,384 People Across 21 Countries Ate More of It and Died Less' },
