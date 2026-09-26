@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'screen-time-smaller-than-wearing-glasses', title: 'Screen Time Explains 0.4% of Teen Wellbeing. In a Study of 355,358 Adolescents, Wearing Glasses Mattered More' },
     { slug: 'wood-wide-web-mostly-myth', title: 'The "Wood Wide Web" Outran Its Evidence. Of 26 Field Studies, Zero Show Mother Trees Feeding Their Young' },
     { slug: 'cotton-tote-needs-20000-uses', title: 'California Banned Plastic Grocery Bags. Trash-Bag Sales Surged 120% and Erased 30% of the Plastic Savings' },
     { slug: 'probiotics-slow-gut-recovery-after-antibiotics', title: 'Probiotics After Antibiotics May Slow Your Gut\'s Recovery. An 11-Strain Probiotic Kept 21 People\'s Gut Microbiomes From Rebuilding, While Their Own Banked Stool Restored It in Days' },
