@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'appendicitis-antibiotics-not-surgery', title: 'Appendicitis Doesn\'t Mean Automatic Surgery Anymore. A 10-Year Trial Found 56% of Patients Kept Their Appendix With Less Than One-Third the Complications' },
     { slug: 'screen-time-smaller-than-wearing-glasses', title: 'Screen Time Explains 0.4% of Teen Wellbeing. In a Study of 355,358 Adolescents, Wearing Glasses Mattered More' },
     { slug: 'wood-wide-web-mostly-myth', title: 'The "Wood Wide Web" Outran Its Evidence. Of 26 Field Studies, Zero Show Mother Trees Feeding Their Young' },
     { slug: 'cotton-tote-needs-20000-uses', title: 'California Banned Plastic Grocery Bags. Trash-Bag Sales Surged 120% and Erased 30% of the Plastic Savings' },
