@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'ants-perform-life-saving-amputations', title: 'Ants Perform Life-Saving Amputations. Florida Carpenter Ants Triage Leg Wounds by Location, Lifting Survival From 15% to 95%' },
     { slug: 'listening-doesnt-change-minds', title: 'Listening Doesn\'t Change Minds. In 1,485 Video Conversations, the Story Did All the Persuading' },
     { slug: 'appendicitis-antibiotics-not-surgery', title: 'Appendicitis Doesn\'t Mean Automatic Surgery Anymore. A 10-Year Trial Found 56% of Patients Kept Their Appendix With Less Than One-Third the Complications' },
     { slug: 'screen-time-smaller-than-wearing-glasses', title: 'Screen Time Explains 0.4% of Teen Wellbeing. In a Study of 355,358 Adolescents, Wearing Glasses Mattered More' },
