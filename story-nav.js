@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'gluten-sensitivity-failed-its-own-replication', title: 'Gluten Sensitivity Didn\'t Survive Its Own Replication. The Monash Team Behind the Famous 2011 Finding Re-Tested 37 Patients Under Blinded Conditions and Found Gluten-Specific Effects in Just 8%' },
     { slug: 'ants-perform-life-saving-amputations', title: 'Ants Perform Life-Saving Amputations. Florida Carpenter Ants Triage Leg Wounds by Location, Lifting Survival From 15% to 95%' },
     { slug: 'listening-doesnt-change-minds', title: 'Listening Doesn\'t Change Minds. In 1,485 Video Conversations, the Story Did All the Persuading' },
     { slug: 'appendicitis-antibiotics-not-surgery', title: 'Appendicitis Doesn\'t Mean Automatic Surgery Anymore. A 10-Year Trial Found 56% of Patients Kept Their Appendix With Less Than One-Third the Complications' },
