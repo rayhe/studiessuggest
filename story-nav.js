@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'crying-doesnt-make-you-feel-better', title: 'The Good Cry Is a Myth. In 615 Real-Time Crying Episodes, Tears Were Followed by Worse Mood, Not Better' },
     { slug: 'gluten-sensitivity-failed-its-own-replication', title: 'Gluten Sensitivity Didn\'t Survive Its Own Replication. The Monash Team Behind the Famous 2011 Finding Re-Tested 37 Patients Under Blinded Conditions and Found Gluten-Specific Effects in Just 8%' },
     { slug: 'ants-perform-life-saving-amputations', title: 'Ants Perform Life-Saving Amputations. Florida Carpenter Ants Triage Leg Wounds by Location, Lifting Survival From 15% to 95%' },
     { slug: 'listening-doesnt-change-minds', title: 'Listening Doesn\'t Change Minds. In 1,485 Video Conversations, the Story Did All the Persuading' },
