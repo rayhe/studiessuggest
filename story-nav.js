@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'nudge-effects-shrink-at-scale', title: 'Nudges Don’t Scale. 126 Government Trials Covering 23 Million People Found Behavioral Tweaks Work at One-Sixth the Strength the Journals Claim' },
     { slug: 'crying-doesnt-make-you-feel-better', title: 'The Good Cry Is a Myth. In 615 Real-Time Crying Episodes, Tears Were Followed by Worse Mood, Not Better' },
     { slug: 'gluten-sensitivity-failed-its-own-replication', title: 'Gluten Sensitivity Didn\'t Survive Its Own Replication. The Monash Team Behind the Famous 2011 Finding Re-Tested 37 Patients Under Blinded Conditions and Found Gluten-Specific Effects in Just 8%' },
     { slug: 'ants-perform-life-saving-amputations', title: 'Ants Perform Life-Saving Amputations. Florida Carpenter Ants Triage Leg Wounds by Location, Lifting Survival From 15% to 95%' },
