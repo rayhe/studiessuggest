@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'scared-straight-increased-teen-crime', title: '\'Scared Straight\' Didn\'t Scare Kids Straight. Nine Randomized Trials Found Prison Visits Raised the Odds of Youth Reoffending by 68%' },
     { slug: 'nudge-effects-shrink-at-scale', title: 'Nudges Don’t Scale. 126 Government Trials Covering 23 Million People Found Behavioral Tweaks Work at One-Sixth the Strength the Journals Claim' },
     { slug: 'crying-doesnt-make-you-feel-better', title: 'The Good Cry Is a Myth. In 615 Real-Time Crying Episodes, Tears Were Followed by Worse Mood, Not Better' },
     { slug: 'gluten-sensitivity-failed-its-own-replication', title: 'Gluten Sensitivity Didn\'t Survive Its Own Replication. The Monash Team Behind the Famous 2011 Finding Re-Tested 37 Patients Under Blinded Conditions and Found Gluten-Specific Effects in Just 8%' },
