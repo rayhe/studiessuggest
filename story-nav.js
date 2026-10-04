@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'statin-side-effects-mostly-nocebo', title: '90% of Statin Side Effects Are the Nocebo Effect. A 60-Patient Crossover Trial Found Sugar Pills Caused Nearly All the Symptoms Blamed on Statins' },
     { slug: 'scared-straight-increased-teen-crime', title: '\'Scared Straight\' Didn\'t Scare Kids Straight. Nine Randomized Trials Found Prison Visits Raised the Odds of Youth Reoffending by 68%' },
     { slug: 'nudge-effects-shrink-at-scale', title: 'Nudges Don’t Scale. 126 Government Trials Covering 23 Million People Found Behavioral Tweaks Work at One-Sixth the Strength the Journals Claim' },
     { slug: 'crying-doesnt-make-you-feel-better', title: 'The Good Cry Is a Myth. In 615 Real-Time Crying Episodes, Tears Were Followed by Worse Mood, Not Better' },
