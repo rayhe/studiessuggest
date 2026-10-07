@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'backfire-effect-failed-to-replicate', title: 'Fact-Checking Doesn\'t Backfire. 52 Issues, 10,100 People, Zero Boomerangs' },
     { slug: 'diversity-training-evidence-problem', title: 'Diversity Training Has an Evidence Problem. 418 Experiments, and 6 Tested the Real Thing' },
     { slug: 'cranberries-prevent-utis-after-all', title: 'Cranberries Prevent UTIs After All. 50 Trials Reversed a Decade of Medical Skepticism' },
     { slug: 'statin-side-effects-mostly-nocebo', title: '90% of Statin Side Effects Are the Nocebo Effect. A 60-Patient Crossover Trial Found Sugar Pills Caused Nearly All the Symptoms Blamed on Statins' },
