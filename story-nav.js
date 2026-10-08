@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'sugar-rush-is-a-myth', title: 'The Sugar Rush Is a Myth. 31 Trials Found Sugar Makes You More Tired, Not More Alert' },
     { slug: 'backfire-effect-failed-to-replicate', title: 'Fact-Checking Doesn\'t Backfire. 52 Issues, 10,100 People, Zero Boomerangs' },
     { slug: 'diversity-training-evidence-problem', title: 'Diversity Training Has an Evidence Problem. 418 Experiments, and 6 Tested the Real Thing' },
     { slug: 'cranberries-prevent-utis-after-all', title: 'Cranberries Prevent UTIs After All. 50 Trials Reversed a Decade of Medical Skepticism' },
