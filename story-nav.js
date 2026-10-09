@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'half-of-social-science-doesnt-replicate', title: 'Half of Social Science Didn\'t Survive a Seven-Year Retest. 274 Claims Redone, and the Survivors Came Back Half as Strong' },
     { slug: 'sugar-rush-is-a-myth', title: 'The Sugar Rush Is a Myth. 31 Trials Found Sugar Makes You More Tired, Not More Alert' },
     { slug: 'backfire-effect-failed-to-replicate', title: 'Fact-Checking Doesn\'t Backfire. 52 Issues, 10,100 People, Zero Boomerangs' },
     { slug: 'diversity-training-evidence-problem', title: 'Diversity Training Has an Evidence Problem. 418 Experiments, and 6 Tested the Real Thing' },
