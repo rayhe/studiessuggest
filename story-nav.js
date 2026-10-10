@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'school-phone-bans-dont-improve-teen-wellbeing', title: 'School Phone Bans Don\'t Improve Teen Wellbeing. 1,227 Students Across 30 Schools Found the Bans Changed Nothing Except Where Kids Use Their Phones' },
     { slug: 'half-of-social-science-doesnt-replicate', title: 'Half of Social Science Didn\'t Survive a Seven-Year Retest. 274 Claims Redone, and the Survivors Came Back Half as Strong' },
     { slug: 'sugar-rush-is-a-myth', title: 'The Sugar Rush Is a Myth. 31 Trials Found Sugar Makes You More Tired, Not More Alert' },
     { slug: 'backfire-effect-failed-to-replicate', title: 'Fact-Checking Doesn\'t Backfire. 52 Issues, 10,100 People, Zero Boomerangs' },
