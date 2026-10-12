@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'xylitol-heart-risk-replicated', title: 'Your Sugar-Free Gum May Raise Heart Attack Risk. A 17,710-Person Study Just Replicated the Warning' },
     { slug: 'chemical-imbalance-depression-no-evidence', title: 'Depression Probably Isn\'t a Serotonin Deficiency. An Umbrella Review Found No Evidence for the \'Chemical Imbalance,\' and 35 Researchers Say the Review Missed the Point' },
     { slug: 'school-phone-bans-dont-improve-teen-wellbeing', title: 'School Phone Bans Don\'t Improve Teen Wellbeing. 1,227 Students Across 30 Schools Found the Bans Changed Nothing Except Where Kids Use Their Phones' },
     { slug: 'half-of-social-science-doesnt-replicate', title: 'Half of Social Science Didn\'t Survive a Seven-Year Retest. 274 Claims Redone, and the Survivors Came Back Half as Strong' },
