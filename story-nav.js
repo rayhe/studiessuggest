@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'colonoscopy-screening-no-mortality-benefit', title: 'The First Randomized Colonoscopy Trial Still Can\'t Prove It Saves Lives' },
     { slug: 'sleep-regularity-beats-sleep-duration', title: 'Forget Chasing 8 Hours. In 60,977 Adults, Sleep Regularity Predicted Death Better Than Sleep Duration' },
     { slug: 'xylitol-heart-risk-replicated', title: 'Your Sugar-Free Gum May Raise Heart Attack Risk. A 17,710-Person Study Just Replicated the Warning' },
     { slug: 'chemical-imbalance-depression-no-evidence', title: 'Depression Probably Isn\'t a Serotonin Deficiency. An Umbrella Review Found No Evidence for the \'Chemical Imbalance,\' and 35 Researchers Say the Review Missed the Point' },
