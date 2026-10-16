@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'walking-may-match-therapy-depression-bmj', title: 'Walking May Match Therapy for Depression, and Beat Antidepressants. A 218-Trial BMJ Analysis Says So' },
     { slug: 'facial-feedback-revived', title: 'Smiling Was Declared Dead by the Replication Crisis. A 3,878-Person, 19-Country Collaboration Brought It Back to Life.' },
     { slug: 'colonoscopy-screening-no-mortality-benefit', title: 'The First Randomized Colonoscopy Trial Still Can\'t Prove It Saves Lives' },
     { slug: 'sleep-regularity-beats-sleep-duration', title: 'Forget Chasing 8 Hours. In 60,977 Adults, Sleep Regularity Predicted Death Better Than Sleep Duration' },
