@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'lottery-winners-happier-after-all', title: 'The Famous Study Saying Lottery Winners Aren’t Happier Used 22 People. A 3,362-Person Study Says Otherwise.' },
     { slug: 'growth-mindset-63-study-meta-analysis', title: 'The Growth-Mindset Revolution Was Built on 63 Studies. A 98,000-Student Meta-Analysis Found the Average Grade Gain Rounds to Zero.' },
     { slug: 'walking-may-match-therapy-depression-bmj', title: 'Walking May Match Therapy for Depression, and Beat Antidepressants. A 218-Trial BMJ Analysis Says So' },
     { slug: 'facial-feedback-revived', title: 'Smiling Was Declared Dead by the Replication Crisis. A 3,878-Person, 19-Country Collaboration Brought It Back to Life.' },
