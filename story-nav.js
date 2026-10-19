@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'mri-spinal-degeneration-pain-free', title: 'Your MRI Says ‘Degenerative Disc Disease.’ A 3,110-Person Review Found It in 96% of 80-Year-Olds With No Back Pain' },
     { slug: 'lottery-winners-happier-after-all', title: 'The Famous Study Saying Lottery Winners Aren’t Happier Used 22 People. A 3,362-Person Study Says Otherwise.' },
     { slug: 'growth-mindset-63-study-meta-analysis', title: 'The Growth-Mindset Revolution Was Built on 63 Studies. A 98,000-Student Meta-Analysis Found the Average Grade Gain Rounds to Zero.' },
     { slug: 'walking-may-match-therapy-depression-bmj', title: 'Walking May Match Therapy for Depression, and Beat Antidepressants. A 218-Trial BMJ Analysis Says So' },
