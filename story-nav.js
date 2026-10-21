@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'hearing-aids-cognitive-decline-achieve-trial', title: 'Hearing Aids Slowed Cognitive Decline 48% in High-Risk Adults. The 977-Person ACHIEVE Trial Found Nothing Overall, and Both Results Are True' },
     { slug: 'tetris-trauma-flashbacks', title: 'Can 20 Minutes of Tetris Really Blunt Traumatic Flashbacks? After 16 Years of Trials, the Honest Answer Is Still Unsettled' },
     { slug: 'mri-spinal-degeneration-pain-free', title: 'Your MRI Says ‘Degenerative Disc Disease.’ A 3,110-Person Review Found It in 96% of 80-Year-Olds With No Back Pain' },
     { slug: 'lottery-winners-happier-after-all', title: 'The Famous Study Saying Lottery Winners Aren’t Happier Used 22 People. A 3,362-Person Study Says Otherwise.' },
