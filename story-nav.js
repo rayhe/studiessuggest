@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'daily-aspirin-after-70-aspree-trial', title: 'The Daily Aspirin Habit: A 19,114-Person Trial Found No Extra Healthy Years in Older Adults, 38% More Major Bleeding, and 14% Higher Mortality' },
     { slug: 'hearing-aids-cognitive-decline-achieve-trial', title: 'Hearing Aids Slowed Cognitive Decline 48% in High-Risk Adults. The 977-Person ACHIEVE Trial Found Nothing Overall, and Both Results Are True' },
     { slug: 'tetris-trauma-flashbacks', title: 'Can 20 Minutes of Tetris Really Blunt Traumatic Flashbacks? After 16 Years of Trials, the Honest Answer Is Still Unsettled' },
     { slug: 'mri-spinal-degeneration-pain-free', title: 'Your MRI Says ‘Degenerative Disc Disease.’ A 3,110-Person Review Found It in 96% of 80-Year-Olds With No Back Pain' },
