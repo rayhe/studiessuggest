@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'placebo-works-even-when-you-know', title: 'Patients Told Their Pills Were Fake Still Got Better. 59% Reported Relief, and the Effect Has Held Up.' },
     { slug: 'dog-ownership-longer-life-meta-analysis', title: 'Dog Owners Showed a 24% Lower Risk of Death in a 3.8-Million-Person Analysis. The Dog May Not Deserve the Credit.' },
     { slug: 'one-minute-bursts-cut-mortality-vilpa', title: 'Skip the Gym: Three One-Minute Bursts of Stair-Climbing a Day Were Linked to 40% Lower Death Risk in 25,241 Non-Exercisers' },
     { slug: 'daily-aspirin-after-70-aspree-trial', title: 'The Daily Aspirin Habit: A 19,114-Person Trial Found No Extra Healthy Years in Older Adults, 38% More Major Bleeding, and 14% Higher Mortality' },
