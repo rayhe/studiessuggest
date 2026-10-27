@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'weak-ties-beat-close-friends-jobs', title: 'Acquaintances Beat Close Friends for Finding Jobs. A 20-Million-Person LinkedIn Experiment Found Moderately Weak Ties Work Best' },
     { slug: 'later-breakfast-mortality-older-adults', title: 'Eating Breakfast Later Was Linked to Higher Death Risk in 2,945 Older Adults. The Clock Is Probably a Warning Light, Not a Cause' },
     { slug: 'placebo-works-even-when-you-know', title: 'Patients Told Their Pills Were Fake Still Got Better. 59% Reported Relief, and the Effect Has Held Up.' },
     { slug: 'dog-ownership-longer-life-meta-analysis', title: 'Dog Owners Showed a 24% Lower Risk of Death in a 3.8-Million-Person Analysis. The Dog May Not Deserve the Credit.' },
