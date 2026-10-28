@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'two-hours-nature-week-good-health', title: 'Two Hours a Week in Nature Was Linked to Better Health in 19,806 Adults. Less Than Two Hours Showed No Link at All' },
     { slug: 'weak-ties-beat-close-friends-jobs', title: 'Acquaintances Beat Close Friends for Finding Jobs. A 20-Million-Person LinkedIn Experiment Found Moderately Weak Ties Work Best' },
     { slug: 'later-breakfast-mortality-older-adults', title: 'Eating Breakfast Later Was Linked to Higher Death Risk in 2,945 Older Adults. The Clock Is Probably a Warning Light, Not a Cause' },
     { slug: 'placebo-works-even-when-you-know', title: 'Patients Told Their Pills Were Fake Still Got Better. 59% Reported Relief, and the Effect Has Held Up.' },
