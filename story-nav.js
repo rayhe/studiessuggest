@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'push-ups-predict-heart-disease', title: 'Men Who Could Do 40 Push-Ups Had 96% Lower Heart Risk. In 1,104 Firefighters, the Two-Minute Test Beat the Treadmill' },
     { slug: 'living-near-golf-courses-parkinsons-risk', title: 'Living Within a Mile of a Golf Course Was Linked to 126% Higher Parkinson\'s Odds. 419 Cases Near 139 Courses Point at the Pesticides' },
     { slug: 'lost-wallets-more-money-more-honest', title: 'The More Cash in a Lost Wallet, the More Likely Strangers Were to Return It. 17,303 Wallets Across 40 Countries Defied What Economists Predicted' },
     { slug: 'two-hours-nature-week-good-health', title: 'Two Hours a Week in Nature Was Linked to Better Health in 19,806 Adults. Less Than Two Hours Showed No Link at All' },
