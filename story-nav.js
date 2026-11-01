@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'annual-checkups-dont-save-lives', title: 'Annual Checkups Don\'t Save Lives. 17 Randomized Trials, 251,891 Adults, and a Mortality Risk Ratio of Exactly 1.00' },
     { slug: 'push-ups-predict-heart-disease', title: 'Men Who Could Do 40 Push-Ups Had 96% Lower Heart Risk. In 1,104 Firefighters, the Two-Minute Test Beat the Treadmill' },
     { slug: 'living-near-golf-courses-parkinsons-risk', title: 'Living Within a Mile of a Golf Course Was Linked to 126% Higher Parkinson\'s Odds. 419 Cases Near 139 Courses Point at the Pesticides' },
     { slug: 'lost-wallets-more-money-more-honest', title: 'The More Cash in a Lost Wallet, the More Likely Strangers Were to Return It. 17,303 Wallets Across 40 Countries Defied What Economists Predicted' },
