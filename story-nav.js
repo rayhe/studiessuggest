@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'runners-high-endocannabinoids-not-endorphins', title: 'The Runner\'s High Isn\'t Caused by Endorphins. In 63 Runners, an Opioid Blocker Changed Nothing While the Body\'s Own Cannabis-Like Chemicals Rose' },
     { slug: 'exercise-four-hours-after-learning-boosts-memory', title: 'Study, Wait Four Hours, Then Exercise. In 72 Adults, a Delayed Workout Improved Memory Two Days Later While an Immediate One Did Nothing' },
     { slug: 'brain-training-no-transfer', title: 'Brain Training Made People Better at Brain Games and Nothing Else. 11,430 Volunteers, Six Weeks, and Zero Transfer to General Thinking' },
     { slug: 'liking-gap', title: 'People Like You More Than You Think. Five Studies Found the Gap Lasts for Months, Even With Your Roommate' },
