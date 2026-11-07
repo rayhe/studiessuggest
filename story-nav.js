@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'vitamin-c-doesnt-prevent-colds', title: 'Vitamin C Won\'t Stop You Catching a Cold. 11,306 People in 29 Trials Say So, and a Nobel Laureate Started the Whole Thing' },
     { slug: 'knuckle-cracking-doesnt-cause-arthritis', title: 'Cracking Your Knuckles Doesn\'t Cause Arthritis. One Doctor Cracked One Hand 36,500 Times in 50 Years, and 215 X-Rays Back Him Up' },
     { slug: 'runners-high-endocannabinoids-not-endorphins', title: 'The Runner\'s High Isn\'t Caused by Endorphins. In 63 Runners, an Opioid Blocker Changed Nothing While the Body\'s Own Cannabis-Like Chemicals Rose' },
     { slug: 'exercise-four-hours-after-learning-boosts-memory', title: 'Study, Wait Four Hours, Then Exercise. In 72 Adults, a Delayed Workout Improved Memory Two Days Later While an Immediate One Did Nothing' },
