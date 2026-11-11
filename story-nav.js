@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'coffee-hydrates-as-well-as-water-50-man-trial', title: 'Coffee Doesn\'t Dehydrate You. In 50 Men, Four Cups a Day Hydrated as Well as Water' },
     { slug: 'sham-knee-surgery-matches-real-arthroscopy', title: 'Sham Knee Surgery Matched the Real Operation. In 180 Patients, Cutting Open the Joint Added Nothing to a Fake Procedure' },
     { slug: 'msg-doesnt-cause-headaches-130-person-trial', title: 'MSG Doesn\'t Cause Headaches. In 130 People Convinced It Did, the Reactions Didn\'t Survive a Retest' },
     { slug: 'left-brain-right-brain-myth-1011-scans', title: 'You Are Not Left-Brained or Right-Brained. In 1,011 Brain Scans, the Two Types Never Showed Up' },
