@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'antioxidant-vitamins-cancel-exercise-insulin-benefit', title: 'Your Antioxidant Pills May Be Cancelling Your Workout. In 39 Men, Vitamins C and E Wiped Out Exercise\'s Insulin Benefit' },
     { slug: 'no-male-brain-or-female-brain-1400-mri-scans', title: 'There Is No \'Male Brain\' or \'Female Brain.\' In 1,400 MRI Scans, Almost Every Brain Was a Mosaic' },
     { slug: 'coffee-hydrates-as-well-as-water-50-man-trial', title: 'Coffee Doesn\'t Dehydrate You. In 50 Men, Four Cups a Day Hydrated as Well as Water' },
     { slug: 'sham-knee-surgery-matches-real-arthroscopy', title: 'Sham Knee Surgery Matched the Real Operation. In 180 Patients, Cutting Open the Joint Added Nothing to a Fake Procedure' },
