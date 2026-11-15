@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'ikea-effect-builders-pay-63-percent-more', title: 'Build It Yourself and It Feels Worth More. Builders Paid 63% More for the Same IKEA Box, and Priced Their Own Origami as Highly as an Expert\'s' },
     { slug: 'daycare-fine-doubled-late-pickups', title: 'A Daycare Fined Parents $2.70 for Picking Up Late. Late Pickups Nearly Doubled, and Removing the Fine Changed Nothing' },
     { slug: 'antioxidant-vitamins-cancel-exercise-insulin-benefit', title: 'Your Antioxidant Pills May Be Cancelling Your Workout. In 39 Men, Vitamins C and E Wiped Out Exercise\'s Insulin Benefit' },
     { slug: 'no-male-brain-or-female-brain-1400-mri-scans', title: 'There Is No \'Male Brain\' or \'Female Brain.\' In 1,400 MRI Scans, Almost Every Brain Was a Mosaic' },
