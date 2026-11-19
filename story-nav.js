@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'exercise-before-breakfast-double-fat-burn', title: 'Exercising Before Breakfast Burns Twice the Fat. The Scale Doesn't Care.' },
     { slug: 'placebo-response-getting-stronger', title: 'Placebos Keep Getting Stronger in U.S. Drug Trials. The Sugar Pill Now Relieves 30% of Pain' },
     { slug: 'weekend-warrior-exercise-same-mortality-benefit', title: 'You Can Cram Your Whole Week of Exercise Into the Weekend. In 350,978 Adults, It Worked Just as Well' },
     { slug: 'quitting-facebook-month-happier-less-informed', title: 'They Were Paid $102 to Quit Facebook for a Month. They Came Out Happier, Less Informed, and Still Using It Less Weeks Later' },
