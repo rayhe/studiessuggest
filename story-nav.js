@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'swearing-honesty-link-disputed', title: 'People Who Swear More Are More Honest, a Study of 73,789 Facebook Users Found. A Rebuttal Says the Measure Was Backwards.' },
     { slug: 'income-happiness-plateau-wrong-75000', title: 'Money Keeps Buying Happiness Past $75,000. The Famous Plateau Holds Only for the Unhappiest Fifth.' },
     { slug: 'exercise-before-breakfast-double-fat-burn', title: 'Exercising Before Breakfast Burns Twice the Fat. The Scale Doesn\'t Care.' },
     { slug: 'placebo-response-getting-stronger', title: 'Placebos Keep Getting Stronger in U.S. Drug Trials. The Sugar Pill Now Relieves 30% of Pain' },
