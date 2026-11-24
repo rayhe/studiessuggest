@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'eating-with-friends-48-percent-more-food', title: 'Dinner With Friends Makes You Eat Up to 48% More. A 42-Study Meta-Analysis Found the Effect Vanishes With Strangers' },
     { slug: 'hugs-protect-against-colds', title: 'Arguing Raises Your Risk of Catching a Cold. Hugs Erase the Effect, a 404-Person Viral-Challenge Study Found' },
     { slug: 'oxytocin-trust-love-hormone-failed-replication', title: 'The "Love Hormone" Won\'t Make You Trust a Stranger. A Registered Replication Found No Effect, Except in Men Who Trust No One.' },
     { slug: 'swearing-honesty-link-disputed', title: 'People Who Swear More Are More Honest, a Study of 73,789 Facebook Users Found. A Rebuttal Says the Measure Was Backwards.' },
