@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'walking-through-doorways-makes-you-forget', title: 'Walking Through a Doorway Makes You Forget What You Came For. A Four-Experiment Replication Found It Only Happens When Your Mind Is Busy' },
     { slug: 'eating-with-friends-48-percent-more-food', title: 'Dinner With Friends Makes You Eat Up to 48% More. A 42-Study Meta-Analysis Found the Effect Vanishes With Strangers' },
     { slug: 'hugs-protect-against-colds', title: 'Arguing Raises Your Risk of Catching a Cold. Hugs Erase the Effect, a 404-Person Viral-Challenge Study Found' },
     { slug: 'oxytocin-trust-love-hormone-failed-replication', title: 'The "Love Hormone" Won\'t Make You Trust a Stranger. A Registered Replication Found No Effect, Except in Men Who Trust No One.' },
