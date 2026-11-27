@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'stents-no-better-than-sham-orbita-trial', title: 'Heart Stents Didn\'t Beat a Fake Operation. A 200-Patient Sham Trial Found the Relief Was Mostly Placebo' },
     { slug: 'taking-photos-makes-you-forget', title: 'Taking Photos Makes You Forget. A Museum Study Found the Camera Remembers What You Don\'t, Unless You Zoom In' },
     { slug: 'walking-through-doorways-makes-you-forget', title: 'Walking Through a Doorway Makes You Forget What You Came For. A Four-Experiment Replication Found It Only Happens When Your Mind Is Busy' },
     { slug: 'eating-with-friends-48-percent-more-food', title: 'Dinner With Friends Makes You Eat Up to 48% More. A 42-Study Meta-Analysis Found the Effect Vanishes With Strangers' },
