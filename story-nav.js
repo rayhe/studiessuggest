@@ -4,6 +4,7 @@
 
   // Article order (newest first) — matches homepage grid order
   var articles = [
+    { slug: 'eggs-dont-raise-heart-disease-risk', title: 'An Egg a Day Didn\'t Raise Heart Risk. In 215,618 People Followed for 32 Years, the Yolk Was Innocent and the Bacon Was the Problem' },
     { slug: 'stents-no-better-than-sham-orbita-trial', title: 'Heart Stents Didn\'t Beat a Fake Operation. A 200-Patient Sham Trial Found the Relief Was Mostly Placebo' },
     { slug: 'taking-photos-makes-you-forget', title: 'Taking Photos Makes You Forget. A Museum Study Found the Camera Remembers What You Don\'t, Unless You Zoom In' },
     { slug: 'walking-through-doorways-makes-you-forget', title: 'Walking Through a Doorway Makes You Forget What You Came For. A Four-Experiment Replication Found It Only Happens When Your Mind Is Busy' },
